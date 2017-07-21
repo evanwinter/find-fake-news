@@ -676,4 +676,3358 @@
         "utc_offset": -36000,
         "verified": false
     }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 21 18:06:40 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/uppereastxanax\u2026",
+                "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/UlCUQDqBKB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3494824035,
+                "id_str": "3494824035",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "lemonade heux \ud83d\udc8b",
+                "screen_name": "jstcwarrior"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 888460232770428928,
+    "id_str": "888460232770428928",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+        "display_text_range": [
+            0,
+            19
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                },
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694772174848,
+                    "id_str": "887369694772174848",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ]
+        },
+        "favorite_count": 9182,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887369731845574656,
+        "id_str": "887369731845574656",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2206,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "You'll never book Prada",
+            "favourites_count": 25091,
+            "follow_request_sent": null,
+            "followers_count": 3550,
+            "following": null,
+            "friends_count": 30,
+            "geo_enabled": true,
+            "id": 389734164,
+            "id_str": "389734164",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16,
+            "location": null,
+            "name": "Upper East Xanax",
+            "notifications": null,
+            "profile_background_color": "0099FF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "uppereastxanax",
+            "statuses_count": 664,
+            "time_zone": "Copenhagen",
+            "url": "http://Instagram.com/uppereastxanax",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 887369731845574656,
+    "quoted_status_id_str": "887369731845574656",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 20 01:36:00 +0000 2017",
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/uppereastxanax\u2026",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "url": "https://t.co/UlCUQDqBKB"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 247719,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887848535424729088,
+        "id_str": "887848535424729088",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+            "display_text_range": [
+                0,
+                19
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694772174848,
+                        "id_str": "887369694772174848",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ]
+            },
+            "favorite_count": 9182,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 887369731845574656,
+            "id_str": "887369731845574656",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 2206,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "You'll never book Prada",
+                "favourites_count": 25091,
+                "follow_request_sent": null,
+                "followers_count": 3550,
+                "following": null,
+                "friends_count": 30,
+                "geo_enabled": true,
+                "id": 389734164,
+                "id_str": "389734164",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 16,
+                "location": null,
+                "name": "Upper East Xanax",
+                "notifications": null,
+                "profile_background_color": "0099FF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "uppereastxanax",
+                "statuses_count": 664,
+                "time_zone": "Copenhagen",
+                "url": "http://Instagram.com/uppereastxanax",
+                "utc_offset": 7200,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 887369731845574656,
+        "quoted_status_id_str": "887369731845574656",
+        "retweet_count": 62712,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 30 21:10:44 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "QUEEN BITCH, SUPREME BITCH... got buffoons eating my pussy while I watch cartoons.",
+            "favourites_count": 24338,
+            "follow_request_sent": null,
+            "followers_count": 21917,
+            "following": null,
+            "friends_count": 1896,
+            "geo_enabled": false,
+            "id": 3494824035,
+            "id_str": "3494824035",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 296,
+            "location": null,
+            "name": "lemonade heux \ud83d\udc8b",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3494824035/1492756816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jstcwarrior",
+            "statuses_count": 21918,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @jstcwarrior: I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+    "timestamp_ms": "1500660400942",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 29 19:19:06 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Cause the girls from Texas are just a little bit better..",
+        "favourites_count": 40685,
+        "follow_request_sent": null,
+        "followers_count": 630,
+        "following": null,
+        "friends_count": 144,
+        "geo_enabled": true,
+        "id": 307505771,
+        "id_str": "307505771",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Texas ",
+        "name": "Danielle",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/307505771/1468440955",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880868636260532228/25lnfxD__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880868636260532228/25lnfxD__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DanielleOsemene",
+        "statuses_count": 84766,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 21 18:06:42 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/uppereastxanax\u2026",
+                "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/UlCUQDqBKB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3494824035,
+                "id_str": "3494824035",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "lemonade heux \ud83d\udc8b",
+                "screen_name": "jstcwarrior"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 888460237832716288,
+    "id_str": "888460237832716288",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+        "display_text_range": [
+            0,
+            19
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                },
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694772174848,
+                    "id_str": "887369694772174848",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ]
+        },
+        "favorite_count": 9182,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887369731845574656,
+        "id_str": "887369731845574656",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2206,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "You'll never book Prada",
+            "favourites_count": 25089,
+            "follow_request_sent": null,
+            "followers_count": 3549,
+            "following": null,
+            "friends_count": 30,
+            "geo_enabled": true,
+            "id": 389734164,
+            "id_str": "389734164",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 14,
+            "location": null,
+            "name": "Upper East Xanax",
+            "notifications": null,
+            "profile_background_color": "0099FF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "uppereastxanax",
+            "statuses_count": 665,
+            "time_zone": "Copenhagen",
+            "url": "http://Instagram.com/uppereastxanax",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 887369731845574656,
+    "quoted_status_id_str": "887369731845574656",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 20 01:36:00 +0000 2017",
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/uppereastxanax\u2026",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "url": "https://t.co/UlCUQDqBKB"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 247717,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887848535424729088,
+        "id_str": "887848535424729088",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+            "display_text_range": [
+                0,
+                19
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694772174848,
+                        "id_str": "887369694772174848",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ]
+            },
+            "favorite_count": 9182,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 887369731845574656,
+            "id_str": "887369731845574656",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 2206,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "You'll never book Prada",
+                "favourites_count": 25089,
+                "follow_request_sent": null,
+                "followers_count": 3549,
+                "following": null,
+                "friends_count": 30,
+                "geo_enabled": true,
+                "id": 389734164,
+                "id_str": "389734164",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 14,
+                "location": null,
+                "name": "Upper East Xanax",
+                "notifications": null,
+                "profile_background_color": "0099FF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "uppereastxanax",
+                "statuses_count": 665,
+                "time_zone": "Copenhagen",
+                "url": "http://Instagram.com/uppereastxanax",
+                "utc_offset": 7200,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 887369731845574656,
+        "quoted_status_id_str": "887369731845574656",
+        "retweet_count": 62713,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 30 21:10:44 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "QUEEN BITCH, SUPREME BITCH... got buffoons eating my pussy while I watch cartoons.",
+            "favourites_count": 24338,
+            "follow_request_sent": null,
+            "followers_count": 21916,
+            "following": null,
+            "friends_count": 1896,
+            "geo_enabled": false,
+            "id": 3494824035,
+            "id_str": "3494824035",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 288,
+            "location": null,
+            "name": "lemonade heux \ud83d\udc8b",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3494824035/1492756816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jstcwarrior",
+            "statuses_count": 21918,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @jstcwarrior: I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+    "timestamp_ms": "1500660402149",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 05 09:42:08 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "my life is a joke",
+        "favourites_count": 4490,
+        "follow_request_sent": null,
+        "followers_count": 107,
+        "following": null,
+        "friends_count": 135,
+        "geo_enabled": false,
+        "id": 772731531303411712,
+        "id_str": "772731531303411712",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": null,
+        "name": "\u0627\u062f\u064a\u0628\u0629 \u2728",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/772731531303411712/1500456724",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/885789859989798912/xISQ-NsR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/885789859989798912/xISQ-NsR_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "aaaadibaaaah",
+        "statuses_count": 4355,
+        "time_zone": null,
+        "url": "http://www.instagram.com/aaaadibah",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 21 18:06:44 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/uppereastxanax\u2026",
+                "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/UlCUQDqBKB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3494824035,
+                "id_str": "3494824035",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "lemonade heux \ud83d\udc8b",
+                "screen_name": "jstcwarrior"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 888460245642731520,
+    "id_str": "888460245642731520",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+        "display_text_range": [
+            0,
+            19
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                },
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694772174848,
+                    "id_str": "887369694772174848",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ]
+        },
+        "favorite_count": 9182,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887369731845574656,
+        "id_str": "887369731845574656",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2206,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "You'll never book Prada",
+            "favourites_count": 25091,
+            "follow_request_sent": null,
+            "followers_count": 3550,
+            "following": null,
+            "friends_count": 30,
+            "geo_enabled": true,
+            "id": 389734164,
+            "id_str": "389734164",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16,
+            "location": null,
+            "name": "Upper East Xanax",
+            "notifications": null,
+            "profile_background_color": "0099FF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "uppereastxanax",
+            "statuses_count": 664,
+            "time_zone": "Copenhagen",
+            "url": "http://Instagram.com/uppereastxanax",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 887369731845574656,
+    "quoted_status_id_str": "887369731845574656",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 20 01:36:00 +0000 2017",
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/uppereastxanax\u2026",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "url": "https://t.co/UlCUQDqBKB"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 247723,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887848535424729088,
+        "id_str": "887848535424729088",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+            "display_text_range": [
+                0,
+                19
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694772174848,
+                        "id_str": "887369694772174848",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ]
+            },
+            "favorite_count": 9182,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 887369731845574656,
+            "id_str": "887369731845574656",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 2206,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "You'll never book Prada",
+                "favourites_count": 25091,
+                "follow_request_sent": null,
+                "followers_count": 3550,
+                "following": null,
+                "friends_count": 30,
+                "geo_enabled": true,
+                "id": 389734164,
+                "id_str": "389734164",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 16,
+                "location": null,
+                "name": "Upper East Xanax",
+                "notifications": null,
+                "profile_background_color": "0099FF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "uppereastxanax",
+                "statuses_count": 664,
+                "time_zone": "Copenhagen",
+                "url": "http://Instagram.com/uppereastxanax",
+                "utc_offset": 7200,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 887369731845574656,
+        "quoted_status_id_str": "887369731845574656",
+        "retweet_count": 62714,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 30 21:10:44 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "QUEEN BITCH, SUPREME BITCH... got buffoons eating my pussy while I watch cartoons.",
+            "favourites_count": 24338,
+            "follow_request_sent": null,
+            "followers_count": 21917,
+            "following": null,
+            "friends_count": 1896,
+            "geo_enabled": false,
+            "id": 3494824035,
+            "id_str": "3494824035",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 296,
+            "location": null,
+            "name": "lemonade heux \ud83d\udc8b",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3494824035/1492756816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jstcwarrior",
+            "statuses_count": 21918,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @jstcwarrior: I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+    "timestamp_ms": "1500660404011",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 23 20:43:58 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "God First | Nigerian/Igbo \ud83c\uddf3\ud83c\uddec | Houston,TX | LU\ud83c\udf93AKA\ud83d\udc38\ud83d\udc96\ud83d\udc9a \u2605\u2606Aspiring to Inspire\u2605\u2606",
+        "favourites_count": 17284,
+        "follow_request_sent": null,
+        "followers_count": 1295,
+        "following": null,
+        "friends_count": 784,
+        "geo_enabled": true,
+        "id": 3105368970,
+        "id_str": "3105368970",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": null,
+        "name": "PorshRiskyyyy",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3105368970/1481578100",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/809608002168823809/cj4JupX3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/809608002168823809/cj4JupX3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elegant_flaws",
+        "statuses_count": 15950,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 21 18:12:26 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/uppereastxanax\u2026",
+                "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/UlCUQDqBKB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3494824035,
+                "id_str": "3494824035",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "lemonade heux \ud83d\udc8b",
+                "screen_name": "jstcwarrior"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 888461681755660289,
+    "id_str": "888461681755660289",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+        "display_text_range": [
+            0,
+            19
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                },
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694772174848,
+                    "id_str": "887369694772174848",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ]
+        },
+        "favorite_count": 9193,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887369731845574656,
+        "id_str": "887369731845574656",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2208,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "You'll never book Prada",
+            "favourites_count": 25091,
+            "follow_request_sent": null,
+            "followers_count": 3551,
+            "following": null,
+            "friends_count": 30,
+            "geo_enabled": true,
+            "id": 389734164,
+            "id_str": "389734164",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 17,
+            "location": null,
+            "name": "Upper East Xanax",
+            "notifications": null,
+            "profile_background_color": "0099FF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "uppereastxanax",
+            "statuses_count": 665,
+            "time_zone": "Copenhagen",
+            "url": "http://Instagram.com/uppereastxanax",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 887369731845574656,
+    "quoted_status_id_str": "887369731845574656",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 20 01:36:00 +0000 2017",
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/uppereastxanax\u2026",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "url": "https://t.co/UlCUQDqBKB"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 247981,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887848535424729088,
+        "id_str": "887848535424729088",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+            "display_text_range": [
+                0,
+                19
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694772174848,
+                        "id_str": "887369694772174848",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ]
+            },
+            "favorite_count": 9193,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 887369731845574656,
+            "id_str": "887369731845574656",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 2208,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "You'll never book Prada",
+                "favourites_count": 25091,
+                "follow_request_sent": null,
+                "followers_count": 3551,
+                "following": null,
+                "friends_count": 30,
+                "geo_enabled": true,
+                "id": 389734164,
+                "id_str": "389734164",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 17,
+                "location": null,
+                "name": "Upper East Xanax",
+                "notifications": null,
+                "profile_background_color": "0099FF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "uppereastxanax",
+                "statuses_count": 665,
+                "time_zone": "Copenhagen",
+                "url": "http://Instagram.com/uppereastxanax",
+                "utc_offset": 7200,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 887369731845574656,
+        "quoted_status_id_str": "887369731845574656",
+        "retweet_count": 62788,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 30 21:10:44 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "QUEEN BITCH, SUPREME BITCH... got buffoons eating my pussy while I watch cartoons.",
+            "favourites_count": 24338,
+            "follow_request_sent": null,
+            "followers_count": 21919,
+            "following": null,
+            "friends_count": 1896,
+            "geo_enabled": false,
+            "id": 3494824035,
+            "id_str": "3494824035",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 192,
+            "location": null,
+            "name": "lemonade heux \ud83d\udc8b",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3494824035/1492756816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jstcwarrior",
+            "statuses_count": 21918,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @jstcwarrior: I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+    "timestamp_ms": "1500660746407",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 25 18:59:23 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "instagram: popscx",
+        "favourites_count": 4934,
+        "follow_request_sent": null,
+        "followers_count": 171,
+        "following": null,
+        "friends_count": 241,
+        "geo_enabled": false,
+        "id": 446453751,
+        "id_str": "446453751",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Colchester, England",
+        "name": "poppy",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/446453751/1487539542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880554920516214785/pzPJlabM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880554920516214785/pzPJlabM_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "poppycannx",
+        "statuses_count": 1570,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 21 18:12:27 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/uppereastxanax\u2026",
+                "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/UlCUQDqBKB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3494824035,
+                "id_str": "3494824035",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "lemonade heux \ud83d\udc8b",
+                "screen_name": "jstcwarrior"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 888461685278769152,
+    "id_str": "888461685278769152",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+        "display_text_range": [
+            0,
+            19
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                },
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694772174848,
+                    "id_str": "887369694772174848",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ]
+        },
+        "favorite_count": 9193,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887369731845574656,
+        "id_str": "887369731845574656",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2208,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "You'll never book Prada",
+            "favourites_count": 25091,
+            "follow_request_sent": null,
+            "followers_count": 3551,
+            "following": null,
+            "friends_count": 30,
+            "geo_enabled": true,
+            "id": 389734164,
+            "id_str": "389734164",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 17,
+            "location": null,
+            "name": "Upper East Xanax",
+            "notifications": null,
+            "profile_background_color": "0099FF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "uppereastxanax",
+            "statuses_count": 665,
+            "time_zone": "Copenhagen",
+            "url": "http://Instagram.com/uppereastxanax",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 887369731845574656,
+    "quoted_status_id_str": "887369731845574656",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 20 01:36:00 +0000 2017",
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/uppereastxanax\u2026",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "url": "https://t.co/UlCUQDqBKB"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 247983,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887848535424729088,
+        "id_str": "887848535424729088",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+            "display_text_range": [
+                0,
+                19
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694772174848,
+                        "id_str": "887369694772174848",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ]
+            },
+            "favorite_count": 9193,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 887369731845574656,
+            "id_str": "887369731845574656",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 2208,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "You'll never book Prada",
+                "favourites_count": 25091,
+                "follow_request_sent": null,
+                "followers_count": 3551,
+                "following": null,
+                "friends_count": 30,
+                "geo_enabled": true,
+                "id": 389734164,
+                "id_str": "389734164",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 17,
+                "location": null,
+                "name": "Upper East Xanax",
+                "notifications": null,
+                "profile_background_color": "0099FF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "uppereastxanax",
+                "statuses_count": 665,
+                "time_zone": "Copenhagen",
+                "url": "http://Instagram.com/uppereastxanax",
+                "utc_offset": 7200,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 887369731845574656,
+        "quoted_status_id_str": "887369731845574656",
+        "retweet_count": 62789,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 30 21:10:44 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "QUEEN BITCH, SUPREME BITCH... got buffoons eating my pussy while I watch cartoons.",
+            "favourites_count": 24338,
+            "follow_request_sent": null,
+            "followers_count": 21919,
+            "following": null,
+            "friends_count": 1896,
+            "geo_enabled": false,
+            "id": 3494824035,
+            "id_str": "3494824035",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 192,
+            "location": null,
+            "name": "lemonade heux \ud83d\udc8b",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3494824035/1492756816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jstcwarrior",
+            "statuses_count": 21918,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @jstcwarrior: I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+    "timestamp_ms": "1500660747247",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 07 01:33:16 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\uddf2\ud83c\uddfd & \ud83c\uddfa\ud83c\uddf8",
+        "favourites_count": 8795,
+        "follow_request_sent": null,
+        "followers_count": 741,
+        "following": null,
+        "friends_count": 1597,
+        "geo_enabled": true,
+        "id": 1155646922,
+        "id_str": "1155646922",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "\n",
+        "name": "\ud83d\udc78\ud83c\udffb",
+        "notifications": null,
+        "profile_background_color": "575C5C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/505062515756118016/1kQGpzwm.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/505062515756118016/1kQGpzwm.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155646922/1499319324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/882809796897931264/1xBuy1Sz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/882809796897931264/1xBuy1Sz_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CEB4A9",
+        "profile_text_color": "A68888",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aameliagonzalez",
+        "statuses_count": 19575,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://Instagram.com/itsaamelia",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 21 18:12:38 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/uppereastxanax\u2026",
+                "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/UlCUQDqBKB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3494824035,
+                "id_str": "3494824035",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "lemonade heux \ud83d\udc8b",
+                "screen_name": "jstcwarrior"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 888461733202939906,
+    "id_str": "888461733202939906",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+        "display_text_range": [
+            0,
+            19
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694726017024,
+                    "id_str": "887369694726017024",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 727,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 659,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                },
+                {
+                    "display_url": "pic.twitter.com/CKrQw1EVd0",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                    "id": 887369694772174848,
+                    "id_str": "887369694772174848",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 750,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CKrQw1EVd0"
+                }
+            ]
+        },
+        "favorite_count": 9196,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887369731845574656,
+        "id_str": "887369731845574656",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2208,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "You'll never book Prada",
+            "favourites_count": 25091,
+            "follow_request_sent": null,
+            "followers_count": 3551,
+            "following": null,
+            "friends_count": 30,
+            "geo_enabled": true,
+            "id": 389734164,
+            "id_str": "389734164",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 17,
+            "location": null,
+            "name": "Upper East Xanax",
+            "notifications": null,
+            "profile_background_color": "0099FF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "uppereastxanax",
+            "statuses_count": 665,
+            "time_zone": "Copenhagen",
+            "url": "http://Instagram.com/uppereastxanax",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 887369731845574656,
+    "quoted_status_id_str": "887369731845574656",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 20 01:36:00 +0000 2017",
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/uppereastxanax\u2026",
+                    "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "url": "https://t.co/UlCUQDqBKB"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 247989,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 887848535424729088,
+        "id_str": "887848535424729088",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Jul 18 17:53:25 +0000 2017",
+            "display_text_range": [
+                0,
+                19
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694726017024,
+                        "id_str": "887369694726017024",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCS6XUAABAxh.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 727,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 659,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/CKrQw1EVd0",
+                        "expanded_url": "https://twitter.com/uppereastxanax/status/887369731845574656/photo/1",
+                        "id": 887369694772174848,
+                        "id_str": "887369694772174848",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFCSCTFXoAA-vS1.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 750,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/CKrQw1EVd0"
+                    }
+                ]
+            },
+            "favorite_count": 9196,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 887369731845574656,
+            "id_str": "887369731845574656",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 2208,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Hugh Laughton-Scott https://t.co/CKrQw1EVd0",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Oct 12 22:29:15 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "You'll never book Prada",
+                "favourites_count": 25091,
+                "follow_request_sent": null,
+                "followers_count": 3551,
+                "following": null,
+                "friends_count": 30,
+                "geo_enabled": true,
+                "id": 389734164,
+                "id_str": "389734164",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 17,
+                "location": null,
+                "name": "Upper East Xanax",
+                "notifications": null,
+                "profile_background_color": "0099FF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827798954/7ce911168d5dd2bee2c77fcd9f02784a.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/389734164/1500600066",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/882439162670047232/wWyLfNsn_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "uppereastxanax",
+                "statuses_count": 665,
+                "time_zone": "Copenhagen",
+                "url": "http://Instagram.com/uppereastxanax",
+                "utc_offset": 7200,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 887369731845574656,
+        "quoted_status_id_str": "887369731845574656",
+        "retweet_count": 62791,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 30 21:10:44 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "QUEEN BITCH, SUPREME BITCH... got buffoons eating my pussy while I watch cartoons.",
+            "favourites_count": 24338,
+            "follow_request_sent": null,
+            "followers_count": 21919,
+            "following": null,
+            "friends_count": 1896,
+            "geo_enabled": false,
+            "id": 3494824035,
+            "id_str": "3494824035",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 192,
+            "location": null,
+            "name": "lemonade heux \ud83d\udc8b",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3494824035/1492756816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/866826666923970560/f0ZPy2Lr_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jstcwarrior",
+            "statuses_count": 21918,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @jstcwarrior: I'm sorry but he look like he about to give me the flu https://t.co/UlCUQDqBKB",
+    "timestamp_ms": "1500660758673",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 03 08:21:50 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "does jumin han is gay ?",
+        "favourites_count": 6614,
+        "follow_request_sent": null,
+        "followers_count": 2657,
+        "following": null,
+        "friends_count": 388,
+        "geo_enabled": true,
+        "id": 1057220270,
+        "id_str": "1057220270",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "nashville     ",
+        "name": "b",
+        "notifications": null,
+        "profile_background_color": "140A17",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619327749522460672/R1KaGY5c.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619327749522460672/R1KaGY5c.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1057220270/1500521033",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/887875667404214272/UO5UsUTj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/887875667404214272/UO5UsUTj_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "njhilist",
+        "statuses_count": 39260,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
 }
