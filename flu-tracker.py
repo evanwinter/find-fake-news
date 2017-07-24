@@ -7,8 +7,13 @@ import json
 import simplejson
 import sys
 
-auth = OAuthHandler(config.consumer_key, config.consumer_secret)
-auth.set_access_token(config.access_token, config.access_secret)
+consumer_key = 'Yp9yjcxSIehmTCYjSDlHvNdeo'
+consumer_secret = 'gsQ1cwmNJ6oUyN4q4N7C7aWivbpRIjCqG88mgEuWO037AgpNL5'
+access_token = '879877809367392256-RbB41RJgmETZ6i7XnSHlC9orRsEenAR'
+access_secret = '37NBYefr0BGarM4P2febFecG06kZOAa5h6gvoFdXXp6mn'
+
+auth = OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_secret)
  
 api = tweepy.API(auth)
 
@@ -26,8 +31,7 @@ class MyListener(StreamListener):
         try:
             with open('tweets.json', 'a') as f:
                 f.write(simplejson.dumps(simplejson.loads(tweet), indent=4, sort_keys=True))
-                print("------------------\n-- tweet stored --\n------------------\n")
-                print(tweet.location)
+                print("tweet stored\n")
                 return True
         except BaseException as e:
             print("Error on_data: %s" % str(e))
