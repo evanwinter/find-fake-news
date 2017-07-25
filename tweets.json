@@ -1,0 +1,767 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 25 18:37:29 +0000 2017",
+    "display_text_range": [
+        0,
+        111
+    ],
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BhtjCNmm1o",
+                "expanded_url": "https://twitter.com/NFLWrld/status/889917536610942978/photo/1",
+                "id": 889917535013007361,
+                "id_str": "889917535013007361",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/DFmfSHnXcAEsQ1w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DFmfSHnXcAEsQ1w.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 371,
+                        "resize": "fit",
+                        "w": 660
+                    },
+                    "medium": {
+                        "h": 371,
+                        "resize": "fit",
+                        "w": 660
+                    },
+                    "small": {
+                        "h": 371,
+                        "resize": "fit",
+                        "w": 660
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/BhtjCNmm1o"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "goo.gl/NCRbyA",
+                "expanded_url": "https://goo.gl/NCRbyA",
+                "indices": [
+                    88,
+                    111
+                ],
+                "url": "https://t.co/wrEggV17gl"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BhtjCNmm1o",
+                "expanded_url": "https://twitter.com/NFLWrld/status/889917536610942978/photo/1",
+                "id": 889917535013007361,
+                "id_str": "889917535013007361",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/DFmfSHnXcAEsQ1w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DFmfSHnXcAEsQ1w.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 371,
+                        "resize": "fit",
+                        "w": 660
+                    },
+                    "medium": {
+                        "h": 371,
+                        "resize": "fit",
+                        "w": 660
+                    },
+                    "small": {
+                        "h": 371,
+                        "resize": "fit",
+                        "w": 660
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/BhtjCNmm1o"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 889917536610942978,
+    "id_str": "889917536610942978",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.superinhuman.com/badkitty\" rel=\"nofollow\">Bad Kitty</a>",
+    "text": "Walter Payton Highlights from the Original 'Flu Game' | Happy Birthday Sweetness! | NFL https://t.co/wrEggV17gl https://t.co/BhtjCNmm1o",
+    "timestamp_ms": "1501007849253",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 06 03:37:33 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "All the news about #NFL on our account. Follow us!",
+        "favourites_count": 72,
+        "follow_request_sent": null,
+        "followers_count": 44027,
+        "following": null,
+        "friends_count": 24528,
+        "geo_enabled": false,
+        "id": 928924128,
+        "id_str": "928924128",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 132,
+        "location": "United States",
+        "name": "NFL World",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/928924128/1453143094",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/689158156245684227/qpjidfXc_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/689158156245684227/qpjidfXc_normal.png",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "NFLWrld",
+        "statuses_count": 106704,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 25 18:37:50 +0000 2017",
+    "display_text_range": [
+        11,
+        54
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3286463694,
+                "id_str": "3286463694",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Sandy",
+                "screen_name": "ssandycee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 889917627346411520,
+    "id_str": "889917627346411520",
+    "in_reply_to_screen_name": "ssandycee",
+    "in_reply_to_status_id": 889895882291851265,
+    "in_reply_to_status_id_str": "889895882291851265",
+    "in_reply_to_user_id": 3286463694,
+    "in_reply_to_user_id_str": "3286463694",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ssandycee lmao leave me alone I have the stomach flu.",
+    "timestamp_ms": "1501007870886",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 11 19:43:52 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Burning the roof of my mouth on pizza since 93'",
+        "favourites_count": 10255,
+        "follow_request_sent": null,
+        "followers_count": 173,
+        "following": null,
+        "friends_count": 209,
+        "geo_enabled": true,
+        "id": 2338895617,
+        "id_str": "2338895617",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Chicago, IL",
+        "name": "Chris Rosales",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2338895617/1466722502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/750505292757082112/QulaKQkD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/750505292757082112/QulaKQkD_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "chris51720",
+        "statuses_count": 3438,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 25 18:37:52 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 778661601381605377,
+                "id_str": "778661601381605377",
+                "indices": [
+                    3,
+                    19
+                ],
+                "name": "Cavalinho do Flu",
+                "screen_name": "cavalinhodoflu1"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 889917635747602433,
+    "id_str": "889917635747602433",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "pt",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Jul 23 22:51:52 +0000 2017",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 403,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 889256781570076674,
+        "id_str": "889256781570076674",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "pt",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -43.795449,
+                            -23.08302
+                        ],
+                        [
+                            -43.795449,
+                            -22.739823
+                        ],
+                        [
+                            -43.087707,
+                            -22.739823
+                        ],
+                        [
+                            -43.087707,
+                            -23.08302
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "country": "Brasil",
+            "country_code": "BR",
+            "full_name": "Rio de Janeiro, Brasil",
+            "id": "97bcdfca1a2dca59",
+            "name": "Rio de Janeiro",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json"
+        },
+        "retweet_count": 307,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "\u00c9 como dizem, quem pegou a \u00e9poca do Flu de 2007 a 2012, pegou\nQuem n pegou n pega mais\nTN10, TS3, Fred, Deco, S\u00f3bis, Nem, Sheik, Conca, etc.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 21 18:26:07 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Aqui voc\u00ea fica por dentro de TUDO sobre o FLUMINENSE com bastantes INFORMA\u00c7\u00d5ES, TEMPO REAL, INTERA\u00c7\u00d5ES e ZOEIRA... Dono: @natanvieiraffc",
+            "favourites_count": 14583,
+            "follow_request_sent": null,
+            "followers_count": 6112,
+            "following": null,
+            "friends_count": 157,
+            "geo_enabled": true,
+            "id": 778661601381605377,
+            "id_str": "778661601381605377",
+            "is_translator": false,
+            "lang": "pt",
+            "listed_count": 46,
+            "location": "Rio de Janeiro, Brasil",
+            "name": "Cavalinho do Flu",
+            "notifications": null,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/778661601381605377/1500641287",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875036441109311490/ZMa-lRYB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875036441109311490/ZMa-lRYB_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "cavalinhodoflu1",
+            "statuses_count": 12334,
+            "time_zone": null,
+            "url": "https://www.instagram.com/cavalinhodofluminense",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @cavalinhodoflu1: \u00c9 como dizem, quem pegou a \u00e9poca do Flu de 2007 a 2012, pegou\nQuem n pegou n pega mais\nTN10, TS3, Fred, Deco, S\u00f3bis, N\u2026",
+    "timestamp_ms": "1501007872889",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 21 21:28:52 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@FluminenseFC, @rj_nobre \u2764",
+        "favourites_count": 3031,
+        "follow_request_sent": null,
+        "followers_count": 1108,
+        "following": null,
+        "friends_count": 1586,
+        "geo_enabled": true,
+        "id": 1027189472,
+        "id_str": "1027189472",
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 1,
+        "location": "Rj",
+        "name": "gi",
+        "notifications": null,
+        "profile_background_color": "EBD3DF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/602996246807097344/NJLa4fM2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/602996246807097344/NJLa4fM2.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1027189472/1500816261",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/886364708831453184/Smrg_2wy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/886364708831453184/Smrg_2wy_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ffcgisele",
+        "statuses_count": 19511,
+        "time_zone": "Brasilia",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 25 18:37:52 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "expanded_url": null,
+                "indices": [
+                    137,
+                    137
+                ],
+                "url": ""
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1833919200,
+                "id_str": "1833919200",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "Scott Nelson",
+                "screen_name": "SocialistVoice"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 889917636011855873,
+    "id_str": "889917636011855873",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Jul 24 12:39:44 +0000 2017",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/8\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/889465118135898114",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/N0h70eyeno"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                0,
+                138
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/Un77k4ZZeC",
+                        "expanded_url": "https://twitter.com/SocialistVoice/status/889465118135898114/photo/1",
+                        "id": 889465112813326336,
+                        "id_str": "889465112813326336",
+                        "indices": [
+                            139,
+                            162
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFgDzrlXUAAoUto.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFgDzrlXUAAoUto.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 518,
+                                "resize": "fit",
+                                "w": 403
+                            },
+                            "medium": {
+                                "h": 518,
+                                "resize": "fit",
+                                "w": 403
+                            },
+                            "small": {
+                                "h": 518,
+                                "resize": "fit",
+                                "w": 403
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/Un77k4ZZeC"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/Un77k4ZZeC",
+                        "expanded_url": "https://twitter.com/SocialistVoice/status/889465118135898114/photo/1",
+                        "id": 889465112813326336,
+                        "id_str": "889465112813326336",
+                        "indices": [
+                            139,
+                            162
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFgDzrlXUAAoUto.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFgDzrlXUAAoUto.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 518,
+                                "resize": "fit",
+                                "w": 403
+                            },
+                            "medium": {
+                                "h": 518,
+                                "resize": "fit",
+                                "w": 403
+                            },
+                            "small": {
+                                "h": 518,
+                                "resize": "fit",
+                                "w": 403
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/Un77k4ZZeC"
+                    }
+                ]
+            },
+            "full_text": "So, despite BSE, horsemeat scandal, swine flu and bird flu, the Tories are happy to import cheap meat from the US as part of a trade deal. https://t.co/Un77k4ZZeC"
+        },
+        "favorite_count": 108,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 889465118135898114,
+        "id_str": "889465118135898114",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 149,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "So, despite BSE, horsemeat scandal, swine flu and bird flu, the Tories are happy to import cheap meat from the US a\u2026 https://t.co/N0h70eyeno",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Sep 08 20:10:59 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Labour Party & Jeremy Corbyn Supporter | Social Justice & Disability Rights Campaigner | Political Blogger | LGBT+ \ud83c\udff3\ufe0f\u200d\ud83c\udf08 | Brexiteer \ud83c\uddec\ud83c\udde7 | Hard-Left Socialist",
+            "favourites_count": 85426,
+            "follow_request_sent": null,
+            "followers_count": 47334,
+            "following": null,
+            "friends_count": 46937,
+            "geo_enabled": true,
+            "id": 1833919200,
+            "id_str": "1833919200",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 400,
+            "location": "Thurrock, Essex, UK",
+            "name": "Scott Nelson",
+            "notifications": null,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833919200/1498755489",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/873907963349610496/lLtSL8If_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/873907963349610496/lLtSL8If_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "SocialistVoice",
+            "statuses_count": 244355,
+            "time_zone": "London",
+            "url": "http://socialistvoice.co.uk",
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "RT @SocialistVoice: So, despite BSE, horsemeat scandal, swine flu and bird flu, the Tories are happy to import cheap meat from the US a\u2026 ",
+    "timestamp_ms": "1501007872952",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 19 22:21:56 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 853,
+        "follow_request_sent": null,
+        "followers_count": 98,
+        "following": null,
+        "friends_count": 171,
+        "geo_enabled": true,
+        "id": 2777175328,
+        "id_str": "2777175328",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": null,
+        "name": "eleanor odonnell",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OdonnellEleanor",
+        "statuses_count": 7142,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 25 18:37:57 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 889917653518823426,
+    "id_str": "889917653518823426",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "If you see a Jill Stein or Gary Johnson voter, today is the day to give them the flu. The lives of millions are on them.",
+    "timestamp_ms": "1501007877126",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 09 03:41:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I like comic books, running, and math. I wish I was funnier, smarter, and ... I don't know how to finish this thought.",
+        "favourites_count": 6234,
+        "follow_request_sent": null,
+        "followers_count": 148,
+        "following": null,
+        "friends_count": 830,
+        "geo_enabled": true,
+        "id": 18790927,
+        "id_str": "18790927",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Lexington, KY",
+        "name": "Dan Billings",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18790927/1398277452",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/797414807242731520/ye1zLsiw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/797414807242731520/ye1zLsiw_normal.jpg",
+        "profile_link_color": "1564DB",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dan_billings",
+        "statuses_count": 5990,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://www.rockthewesternworld.com",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
