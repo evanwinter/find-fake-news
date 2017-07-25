@@ -35,7 +35,7 @@ class MyListener(StreamListener):
         try:
             with open('tweets.json', 'a') as f:
             	f.write(json.dumps(json.loads(tweet), indent=4, sort_keys=True))
-            	# print("Tweet Stored:\n"+tweet.text+"\n")
+            	print("Tweet Stored")
             	return True
         except BaseException as e:
             print("Error on_status: %s\n" % str(e))
@@ -47,3 +47,11 @@ class MyListener(StreamListener):
  
 twitter_stream = Stream(auth, MyListener())
 twitter_stream.filter(track=['flu'])
+
+
+
+
+
+
+
+
