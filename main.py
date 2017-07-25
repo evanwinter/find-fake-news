@@ -28,6 +28,7 @@ class MyListener(StreamListener):
                 if (tweetdict['coordinates']):
                     f.write(json.dumps(tweetdict, indent=4, sort_keys=True))
                     print("Tweet stored.")
+                    print(tweetdict['coordinates'])
                     print()
                 else:
                     print("Tweet not stored -- no location data.")
