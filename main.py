@@ -22,11 +22,16 @@ print("\nGetting tweets...\n")
 class MyListener(StreamListener):
 
     def on_data(self, tweet):
+        
         try:
             with open('tweets.json', 'a') as f:
+                
+                # make it a dictionary
                 tweetdict = json.loads(tweet)
+                
                 # only store data if it fits our criteria
                 if ("fake news" in tweetdict['text'] and "RT" not in tweetdict['text']):
+                    
                     # write to json and make it pretty
                     f.write(json.dumps(tweetdict, indent=4, sort_keys=True))
 
@@ -36,12 +41,13 @@ class MyListener(StreamListener):
                     print()
 
                 else:
-                    # print("Tweet not stored")
                     pass
                 return True
+
         except BaseException as e:
             print("Error on_status: %s\n" % str(e))
             return True # don't kill stream
+
     def on_error(self, tweet):
         print(tweet)
         return True	# don't kill stream
