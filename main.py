@@ -20,27 +20,22 @@ if (not api):
 print("\nGetting flu-related tweets...\n")
 
 class MyListener(StreamListener):
- 
-    # def on_status(self, tweet):
-    #     try:
-    #         with open('tweets.txt', 'a') as f:
-    #             f.write(tweet.text+'\n')
-    #             print("Tweet Stored:\n"+tweet.text+"\n")
-    #             return True
-    #     except BaseException as e:
-    #         print("Error on_status: %s\n" % str(e))
-    #     return True # don't kill stream
 
     def on_data(self, tweet):
         try:
             with open('tweets.json', 'a') as f:
-            	f.write(json.dumps(json.loads(tweet), indent=4, sort_keys=True))
-            	print("Tweet Stored")
-            	return True
+                tweetdict = json.loads(tweet)
+                if (tweetdict['coordinates']):
+                    f.write(json.dumps(tweetdict, indent=4, sort_keys=True))
+                    print("Tweet stored.")
+                    print()
+                else:
+                    print("Tweet not stored -- no location data.")
+                    print()
+                return True
         except BaseException as e:
             print("Error on_status: %s\n" % str(e))
-        return True # don't kill stream
- 
+            return True # don't kill stream
     def on_error(self, tweet):
         print(tweet)
         return True	# don't kill stream
