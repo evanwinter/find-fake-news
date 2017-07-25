@@ -47,11 +47,3 @@ class MyListener(StreamListener):
  
 twitter_stream = Stream(auth, MyListener())
 twitter_stream.filter(track=['flu'])
-
-
-
-
-
-
-
-
