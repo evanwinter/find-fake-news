@@ -2,7 +2,7 @@ import tweepy
 from tweepy import Stream
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
-from lib import config
+import config
 import json
 import sys
 
@@ -17,35 +17,38 @@ if (not api):
 	sys.exit(-1)
 
 # start getting tweets
-print("\nGetting tweets...\n")
+print("\nGetting tweets with links...\n")
 
 class MyListener(StreamListener):
 
     def on_data(self, tweet):
         
         try:
-            with open('tweets.json', 'a') as f:
+            with open('links.json', 'a') as f:
                 
                 # make it a dictionary
                 tweetdict = json.loads(tweet)
+
+                print(tweetdict['entities']['urls'])
                 
-                # only store data if it fits our criteria
-                if ("fake news" in tweetdict['text'] and "RT" not in tweetdict['text']):
+                # if it has a url in it
+                if (tweetdict['entities']['urls']):
+                    full_url = tweetdict['entities']['urls'][0]['expanded_url']
+                    print(full_url)
                     
-                    # write to json and make it pretty
+                    # store the tweet and make it pretty
                     f.write(json.dumps(tweetdict, indent=4, sort_keys=True))
 
-                    # log it
                     print("Tweet stored.")
-                    print(tweetdict['text'])
                     print()
 
                 else:
                     pass
+
                 return True
 
         except BaseException as e:
-            print("Error on_status: %s\n" % str(e))
+            print("Error on_data: %s\n" % str(e))
             return True # don't kill stream
 
     def on_error(self, tweet):
