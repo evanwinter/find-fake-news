@@ -7,4 +7,4 @@
 
 ## to do
 
-* links.py is searching for tweets containing references to every domain listed in problem-sites.csv
+* links.py is searching for tweets containing references to every domain (but only the main domain, not articles or other pages) listed in problem-sites.csv. we need to be tracking the domains as substrings or something
