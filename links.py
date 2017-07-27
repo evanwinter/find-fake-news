@@ -25,24 +25,35 @@ class MyListener(StreamListener):
         
         try:
             with open('links.json', 'a') as f:
+
+                print()
                 
                 # make it a dictionary
                 tweetdict = json.loads(tweet)
 
-                print(tweetdict['entities']['urls'])
-                
-                # if it has a url in it
-                if (tweetdict['entities']['urls']):
-                    full_url = tweetdict['entities']['urls'][0]['expanded_url']
-                    print(full_url)
-                    
-                    # store the tweet and make it pretty
-                    f.write(json.dumps(tweetdict, indent=4, sort_keys=True))
+                tweet_urls = tweetdict['entities']['urls']
 
-                    print("Tweet stored.")
-                    print()
+                # if tweet has urls
+                if (len(tweet_urls) > 0):
+                    
+                    print('has urls')
+                    
+                    # and if urls list has a full url
+                    if (tweet_urls[0]['expanded_url'] is not None):
+                        
+                        full_url = tweet_urls[0]['expanded_url']
+                        
+                        # store it
+                        f.write(json.dumps(full_url, indent=4, sort_keys=True)+'\n')
+                        
+                        print('** tweet stored **')
+
+                    else:
+                        print('no expanded url')
+                        pass
 
                 else:
+                    print("no urls")
                     pass
 
                 return True
