@@ -1,7 +1,357 @@
-"https://twitter.com/The_Trump_Train/status/890184258651926528"
-"https://twitter.com/JackPosobiec/status/889924394180648965"
-"https://twitter.com/i/web/status/890632592189517825"
-"https://twitter.com/i/web/status/890632595402248192"
-"https://twitter.com/i/web/status/890632603987881984"
-"http://buff.ly/2vMK89a"
-"https://twitter.com/realDonaldTrump/status/890568797941362690"
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 18:38:45 +0000 2017",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    105,
+                    111
+                ],
+                "text": "BB4SP"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/O9e1LZ9mvh",
+                "expanded_url": "https://twitter.com/BB4SP/status/890641956061274112/photo/1",
+                "id": 890641953930530816,
+                "id_str": "890641953930530816",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 890641956061274112,
+                "source_status_id_str": "890641956061274112",
+                "source_user_id": 101264587,
+                "source_user_id_str": "101264587",
+                "type": "photo",
+                "url": "https://t.co/O9e1LZ9mvh"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bb4sp.com",
+                "expanded_url": "http://bb4sp.com/",
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/TM3sg8AXwm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 101264587,
+                "id_str": "101264587",
+                "indices": [
+                    3,
+                    9
+                ],
+                "name": "Barracuda Brigade",
+                "screen_name": "BB4SP"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/O9e1LZ9mvh",
+                "expanded_url": "https://twitter.com/BB4SP/status/890641956061274112/photo/1",
+                "id": 890641953930530816,
+                "id_str": "890641953930530816",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 890641956061274112,
+                "source_status_id_str": "890641956061274112",
+                "source_user_id": 101264587,
+                "source_user_id_str": "101264587",
+                "type": "photo",
+                "url": "https://t.co/O9e1LZ9mvh"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890642633353076736,
+    "id_str": "890642633353076736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 18:36:04 +0000 2017",
+        "display_text_range": [
+            0,
+            100
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        94,
+                        100
+                    ],
+                    "text": "BB4SP"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/O9e1LZ9mvh",
+                    "expanded_url": "https://twitter.com/BB4SP/status/890641956061274112/photo/1",
+                    "id": 890641953930530816,
+                    "id_str": "890641953930530816",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/O9e1LZ9mvh"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bb4sp.com",
+                    "expanded_url": "http://bb4sp.com/",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "url": "https://t.co/TM3sg8AXwm"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/O9e1LZ9mvh",
+                    "expanded_url": "https://twitter.com/BB4SP/status/890641956061274112/photo/1",
+                    "id": 890641953930530816,
+                    "id_str": "890641953930530816",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/O9e1LZ9mvh"
+                }
+            ]
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890641956061274112,
+        "id_str": "890641956061274112",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "\u2605\u2605\u2605 Patriots Who Dare... Join our fight to save America! \u27a0 Click Here https://t.co/TM3sg8AXwm #BB4SP https://t.co/O9e1LZ9mvh",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jan 02 16:57:43 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "BB's Official Twitter Account ~ Caution Barracuda Patrolled Waters ~ Followed By @DLoesch @newsbusters @GovernorPerry  @fredthompson @TwitchyTeam @chuckwoolery",
+            "favourites_count": 1528,
+            "follow_request_sent": null,
+            "followers_count": 84492,
+            "following": null,
+            "friends_count": 53609,
+            "geo_enabled": false,
+            "id": 101264587,
+            "id_str": "101264587",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 966,
+            "location": null,
+            "name": "Barracuda Brigade",
+            "notifications": null,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/732168927/4ee65d63b64775b408c31b7ccb02dec3.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/732168927/4ee65d63b64775b408c31b7ccb02dec3.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/101264587/1486098115",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2913832546/1c0ecd1cfdad63a91346d02b596e0937_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2913832546/1c0ecd1cfdad63a91346d02b596e0937_normal.jpeg",
+            "profile_link_color": "A60A0A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BB4SP",
+            "statuses_count": 576015,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://www.bb4sp.com",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @BB4SP: \u2605\u2605\u2605 Patriots Who Dare... Join our fight to save America! \u27a0 Click Here https://t.co/TM3sg8AXwm #BB4SP https://t.co/O9e1LZ9mvh",
+    "timestamp_ms": "1501180725788",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 25 15:46:55 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Independant",
+        "favourites_count": 1,
+        "follow_request_sent": null,
+        "followers_count": 33,
+        "following": null,
+        "friends_count": 138,
+        "geo_enabled": false,
+        "id": 889874611978080256,
+        "id_str": "889874611978080256",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Bronx, NY",
+        "name": "Nick Corvasce",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/890330410433073153/lhTuA9nb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/890330410433073153/lhTuA9nb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bronxnic",
+        "statuses_count": 111,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
