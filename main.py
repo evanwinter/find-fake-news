@@ -2,7 +2,7 @@ import tweepy
 from tweepy import Stream
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
-import config
+from lib import config
 import json
 import sys
 
