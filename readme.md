@@ -1,6 +1,6 @@
 # finding fake news 
 
-From Politifact: "To help you better sort out fact from fiction on the Internet we created this list of websites where we've found _*deliberately false or fake stories. This is by no means a complete list of offenders. Nor does it mean every post on these websites is fake. But in most cases, these sites work hard to fool readers*_, and you should take that into consideration if should you see a link being shared from one. This list is up to date as of May 16, 2017."
+From Politifact: "To help you better sort out fact from fiction on the Internet we created this list of websites where we've found **deliberately false or fake stories. This is by no means a complete list of offenders. Nor does it mean every post on these websites is fake. But in most cases, these sites work hard to fool readers**, and you should take that into consideration if should you see a link being shared from one. This list is up to date as of May 16, 2017."
 
 ## objectives
 
