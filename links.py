@@ -71,12 +71,8 @@ class MyListener(StreamListener):
             return True # don't kill stream
 
     def on_error(self, tweet):
-        if status_code == 420:
-            #returning False in on_data disconnects the stream
-            return False
-        else:
-            print(tweet)
-            return True	# don't kill stream
+        print(tweet)
+        return True	# don't kill stream
  
 twitter_stream = Stream(auth, MyListener())
 
