@@ -1,125 +1,111 @@
 {
     "contributors": null,
     "coordinates": null,
-    "created_at": "Thu Jul 27 18:38:45 +0000 2017",
+    "created_at": "Thu Jul 27 19:31:14 +0000 2017",
     "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    105,
-                    111
-                ],
-                "text": "BB4SP"
-            }
-        ],
-        "media": [
-            {
-                "display_url": "pic.twitter.com/O9e1LZ9mvh",
-                "expanded_url": "https://twitter.com/BB4SP/status/890641956061274112/photo/1",
-                "id": 890641953930530816,
-                "id_str": "890641953930530816",
-                "indices": [
-                    112,
-                    135
-                ],
-                "media_url": "http://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
-                "sizes": {
-                    "large": {
-                        "h": 337,
-                        "resize": "fit",
-                        "w": 600
-                    },
-                    "medium": {
-                        "h": 337,
-                        "resize": "fit",
-                        "w": 600
-                    },
-                    "small": {
-                        "h": 337,
-                        "resize": "fit",
-                        "w": 600
-                    },
-                    "thumb": {
-                        "h": 150,
-                        "resize": "crop",
-                        "w": 150
-                    }
-                },
-                "source_status_id": 890641956061274112,
-                "source_status_id_str": "890641956061274112",
-                "source_user_id": 101264587,
-                "source_user_id_str": "101264587",
-                "type": "photo",
-                "url": "https://t.co/O9e1LZ9mvh"
-            }
-        ],
+        "hashtags": [],
         "symbols": [],
         "urls": [
             {
-                "display_url": "bb4sp.com",
-                "expanded_url": "http://bb4sp.com/",
+                "display_url": "fb.me/27JKiNQZL",
+                "expanded_url": "http://fb.me/27JKiNQZL",
                 "indices": [
-                    81,
-                    104
+                    44,
+                    67
                 ],
-                "url": "https://t.co/TM3sg8AXwm"
+                "url": "https://t.co/02SRnBEOUK"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890655837953286144,
+    "id_str": "890655837953286144",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "text": "CNN\u2019s New Fake News Hitman: Simon Ostrovsky https://t.co/02SRnBEOUK",
+    "timestamp_ms": "1501183874010",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 03 21:11:29 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 0,
+        "follow_request_sent": null,
+        "followers_count": 1,
+        "following": null,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "id": 87283421,
+        "id_str": "87283421",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": null,
+        "name": "Tom McGuire",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/446343902010671104/ms06K86T_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/446343902010671104/ms06K86T_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tm3fan",
+        "statuses_count": 4629,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:31:14 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/hadas_gold/sta\u2026",
+                "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                "indices": [
+                    70,
+                    93
+                ],
+                "url": "https://t.co/Muleg7VpPH"
             }
         ],
         "user_mentions": [
             {
-                "id": 101264587,
-                "id_str": "101264587",
+                "id": 41634520,
+                "id_str": "41634520",
                 "indices": [
                     3,
-                    9
+                    15
                 ],
-                "name": "Barracuda Brigade",
-                "screen_name": "BB4SP"
-            }
-        ]
-    },
-    "extended_entities": {
-        "media": [
-            {
-                "display_url": "pic.twitter.com/O9e1LZ9mvh",
-                "expanded_url": "https://twitter.com/BB4SP/status/890641956061274112/photo/1",
-                "id": 890641953930530816,
-                "id_str": "890641953930530816",
-                "indices": [
-                    112,
-                    135
-                ],
-                "media_url": "http://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
-                "sizes": {
-                    "large": {
-                        "h": 337,
-                        "resize": "fit",
-                        "w": 600
-                    },
-                    "medium": {
-                        "h": 337,
-                        "resize": "fit",
-                        "w": 600
-                    },
-                    "small": {
-                        "h": 337,
-                        "resize": "fit",
-                        "w": 600
-                    },
-                    "thumb": {
-                        "h": 150,
-                        "resize": "crop",
-                        "w": 150
-                    }
-                },
-                "source_status_id": 890641956061274112,
-                "source_status_id_str": "890641956061274112",
-                "source_user_id": 101264587,
-                "source_user_id_str": "101264587",
-                "type": "photo",
-                "url": "https://t.co/O9e1LZ9mvh"
+                "name": "Sean Hannity",
+                "screen_name": "seanhannity"
             }
         ]
     },
@@ -127,8 +113,2197 @@
     "favorited": false,
     "filter_level": "low",
     "geo": null,
-    "id": 890642633353076736,
-    "id_str": "890642633353076736",
+    "id": 890655840545275904,
+    "id_str": "890655840545275904",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+        "display_text_range": [
+            0,
+            73
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "gq.com/story/inside-t\u2026",
+                    "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "url": "https://t.co/nLwpXDNCCf"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ]
+        },
+        "favorite_count": 480,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890641341226532864,
+        "id_str": "890641341226532864",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 366,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+            "favourites_count": 5341,
+            "follow_request_sent": null,
+            "followers_count": 44200,
+            "following": null,
+            "friends_count": 1252,
+            "geo_enabled": false,
+            "id": 70511174,
+            "id_str": "70511174",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1465,
+            "location": "Washington, D.C.",
+            "name": "Hadas Gold",
+            "notifications": null,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Hadas_Gold",
+            "statuses_count": 32428,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://politico.com/",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 890641341226532864,
+    "quoted_status_id_str": "890641341226532864",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 19:05:26 +0000 2017",
+        "display_text_range": [
+            0,
+            52
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/hadas_gold/sta\u2026",
+                    "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "url": "https://t.co/Muleg7VpPH"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1491,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890649346898771968,
+        "id_str": "890649346898771968",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+            "display_text_range": [
+                0,
+                73
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "gq.com/story/inside-t\u2026",
+                        "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                        "indices": [
+                            50,
+                            73
+                        ],
+                        "url": "https://t.co/nLwpXDNCCf"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ]
+            },
+            "favorite_count": 480,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 890641341226532864,
+            "id_str": "890641341226532864",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 366,
+            "retweeted": false,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+                "favourites_count": 5341,
+                "follow_request_sent": null,
+                "followers_count": 44200,
+                "following": null,
+                "friends_count": 1252,
+                "geo_enabled": false,
+                "id": 70511174,
+                "id_str": "70511174",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1465,
+                "location": "Washington, D.C.",
+                "name": "Hadas Gold",
+                "notifications": null,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_link_color": "038543",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Hadas_Gold",
+                "statuses_count": 32428,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "http://politico.com/",
+                "utc_offset": -14400,
+                "verified": true
+            }
+        },
+        "quoted_status_id": 890641341226532864,
+        "quoted_status_id_str": "890641341226532864",
+        "retweet_count": 557,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 21 17:41:12 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TV Host Fox News Channel 10 PM. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com  Retweets, Follows NOT endorsements!",
+            "favourites_count": 115,
+            "follow_request_sent": null,
+            "followers_count": 2634555,
+            "following": null,
+            "friends_count": 7590,
+            "geo_enabled": false,
+            "id": 41634520,
+            "id_str": "41634520",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16654,
+            "location": "NYC",
+            "name": "Sean Hannity",
+            "notifications": null,
+            "profile_background_color": "663333",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41634520/1398970584",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "CCCCFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "seanhannity",
+            "statuses_count": 35923,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://hannity.com",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @seanhannity: FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+    "timestamp_ms": "1501183874628",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 06 02:32:54 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Proud American #USA, New England Patriots Fan TB12, Jesus! #MAGA",
+        "favourites_count": 235,
+        "follow_request_sent": null,
+        "followers_count": 19,
+        "following": null,
+        "friends_count": 88,
+        "geo_enabled": false,
+        "id": 882789421900341249,
+        "id_str": "882789421900341249",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": null,
+        "name": "Cody Lam",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/882793697242300416/MrWd7gS2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/882793697242300416/MrWd7gS2_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DTMP_MAGA",
+        "statuses_count": 137,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:31:14 +0000 2017",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    101
+                ],
+                "text": "NotMyPresident"
+            },
+            {
+                "indices": [
+                    102,
+                    121
+                ],
+                "text": "TrumpRussiaCoverUp"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nytimes.com/interactive/20\u2026",
+                "expanded_url": "https://www.nytimes.com/interactive/2017/07/26/upshot/president-trumps-newest-focus-discrediting-the-news-media-obamacare.html?hpw&rref=upshot&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0",
+                "indices": [
+                    62,
+                    85
+                ],
+                "url": "https://t.co/sHyBW2Cs6C"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890655841229053952,
+    "id_str": "890655841229053952",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "A fake POTUS sets only dubious records while achieving infamy\nhttps://t.co/sHyBW2Cs6C\n#NotMyPresident\n#TrumpRussiaCoverUp",
+    "timestamp_ms": "1501183874791",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 00:43:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Author: Call the Yankees My Daddy, Charging the Net, Breaking the Ice. For: sports, jazz, books, cinema, politics, gender equity. Against: trump regime",
+        "favourites_count": 1639,
+        "follow_request_sent": null,
+        "followers_count": 320,
+        "following": null,
+        "friends_count": 697,
+        "geo_enabled": false,
+        "id": 31578463,
+        "id_str": "31578463",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Yonkers, New York, USA",
+        "name": "Cecil Harris",
+        "notifications": null,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31578463/1484022153",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/462798418339823616/kl0J2gzZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/462798418339823616/kl0J2gzZ_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "allmyyankees",
+        "statuses_count": 6138,
+        "time_zone": "Quito",
+        "url": "http://cecilharris.contently.com",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:31:14 +0000 2017",
+    "display_text_range": [
+        0,
+        80
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    56,
+                    66
+                ],
+                "text": "OviyaArmy"
+            },
+            {
+                "indices": [
+                    67,
+                    80
+                ],
+                "text": "BigBossTamil"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/kollyprince_/s\u2026",
+                "expanded_url": "https://twitter.com/kollyprince_/status/890654852350492674",
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/c8PXFM0MgC"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890655841635811328,
+    "id_str": "890655841635811328",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 19:27:19 +0000 2017",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        57,
+                        63
+                    ],
+                    "text": "Oviya"
+                },
+                {
+                    "indices": [
+                        102,
+                        115
+                    ],
+                    "text": "BigBossTamil"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 429437160,
+                    "id_str": "429437160",
+                    "indices": [
+                        29,
+                        45
+                    ],
+                    "name": "Vijay Television",
+                    "screen_name": "vijaytelevision"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890654852350492674,
+        "id_str": "890654852350492674",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Top 5 tamil actors requested @vijaytelevision to destroy #Oviya 's popularity.Huge money transferred.\n#BigBossTamil",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 30 01:17:41 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Celebrities are kings and fans are slaves",
+            "favourites_count": 50,
+            "follow_request_sent": null,
+            "followers_count": 3,
+            "following": null,
+            "friends_count": 8,
+            "geo_enabled": false,
+            "id": 869362142310420480,
+            "id_str": "869362142310420480",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": null,
+            "name": "Kollywood",
+            "notifications": null,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/872558964201857024/toozHucw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/872558964201857024/toozHucw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kollyprince_",
+            "statuses_count": 28,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 890654852350492674,
+    "quoted_status_id_str": "890654852350492674",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "huh wtf? who are those? fake news for the fake program? #OviyaArmy #BigBossTamil https://t.co/c8PXFM0MgC",
+    "timestamp_ms": "1501183874888",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 11 11:09:49 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 0,
+        "follow_request_sent": null,
+        "followers_count": 1,
+        "following": null,
+        "friends_count": 66,
+        "geo_enabled": false,
+        "id": 884731447931576321,
+        "id_str": "884731447931576321",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": null,
+        "name": "BigBossActAnalyst",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/884731447931576321/1499771842",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/884733433498357761/W41bN-st_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/884733433498357761/W41bN-st_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KalaiMachi",
+        "statuses_count": 30,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:31:15 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/hadas_gold/sta\u2026",
+                "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                "indices": [
+                    70,
+                    93
+                ],
+                "url": "https://t.co/Muleg7VpPH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 41634520,
+                "id_str": "41634520",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Sean Hannity",
+                "screen_name": "seanhannity"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890655842848124928,
+    "id_str": "890655842848124928",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+        "display_text_range": [
+            0,
+            73
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "gq.com/story/inside-t\u2026",
+                    "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "url": "https://t.co/nLwpXDNCCf"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ]
+        },
+        "favorite_count": 480,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890641341226532864,
+        "id_str": "890641341226532864",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 366,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+            "favourites_count": 5341,
+            "follow_request_sent": null,
+            "followers_count": 44201,
+            "following": null,
+            "friends_count": 1252,
+            "geo_enabled": false,
+            "id": 70511174,
+            "id_str": "70511174",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1466,
+            "location": "Washington, D.C.",
+            "name": "Hadas Gold",
+            "notifications": null,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Hadas_Gold",
+            "statuses_count": 32428,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://politico.com/",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 890641341226532864,
+    "quoted_status_id_str": "890641341226532864",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 19:05:26 +0000 2017",
+        "display_text_range": [
+            0,
+            52
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/hadas_gold/sta\u2026",
+                    "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "url": "https://t.co/Muleg7VpPH"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1491,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890649346898771968,
+        "id_str": "890649346898771968",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+            "display_text_range": [
+                0,
+                73
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "gq.com/story/inside-t\u2026",
+                        "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                        "indices": [
+                            50,
+                            73
+                        ],
+                        "url": "https://t.co/nLwpXDNCCf"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ]
+            },
+            "favorite_count": 480,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 890641341226532864,
+            "id_str": "890641341226532864",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 366,
+            "retweeted": false,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+                "favourites_count": 5341,
+                "follow_request_sent": null,
+                "followers_count": 44201,
+                "following": null,
+                "friends_count": 1252,
+                "geo_enabled": false,
+                "id": 70511174,
+                "id_str": "70511174",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1466,
+                "location": "Washington, D.C.",
+                "name": "Hadas Gold",
+                "notifications": null,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_link_color": "038543",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Hadas_Gold",
+                "statuses_count": 32428,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "http://politico.com/",
+                "utc_offset": -14400,
+                "verified": true
+            }
+        },
+        "quoted_status_id": 890641341226532864,
+        "quoted_status_id_str": "890641341226532864",
+        "retweet_count": 558,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 21 17:41:12 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TV Host Fox News Channel 10 PM. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com  Retweets, Follows NOT endorsements!",
+            "favourites_count": 115,
+            "follow_request_sent": null,
+            "followers_count": 2634556,
+            "following": null,
+            "friends_count": 7590,
+            "geo_enabled": false,
+            "id": 41634520,
+            "id_str": "41634520",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16605,
+            "location": "NYC",
+            "name": "Sean Hannity",
+            "notifications": null,
+            "profile_background_color": "663333",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41634520/1398970584",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "CCCCFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "seanhannity",
+            "statuses_count": 35923,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://hannity.com",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @seanhannity: FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+    "timestamp_ms": "1501183875177",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 30 01:22:07 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Old fashioned 53 y/o single woman. Love the country life. Retired RT. Growing my own food and learning to hunt. Loving life.",
+        "favourites_count": 1633,
+        "follow_request_sent": null,
+        "followers_count": 676,
+        "following": null,
+        "friends_count": 304,
+        "geo_enabled": true,
+        "id": 979495020,
+        "id_str": "979495020",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Body in MS, \u2764 in Alaska",
+        "name": "Rena Newcomb",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/979495020/1492482644",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/854159181976403970/QXGEVkVp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/854159181976403970/QXGEVkVp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_RainyDayWoman",
+        "statuses_count": 43084,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:31:33 +0000 2017",
+    "display_text_range": [
+        0,
+        29
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/seanhannity/st\u2026",
+                "expanded_url": "https://twitter.com/seanhannity/status/890649346898771968",
+                "indices": [
+                    30,
+                    53
+                ],
+                "url": "https://t.co/3YsPkbWq69"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890655921030017025,
+    "id_str": "890655921030017025",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 19:05:26 +0000 2017",
+        "display_text_range": [
+            0,
+            52
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/hadas_gold/sta\u2026",
+                    "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "url": "https://t.co/Muleg7VpPH"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1499,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890649346898771968,
+        "id_str": "890649346898771968",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status_id": 890641341226532864,
+        "quoted_status_id_str": "890641341226532864",
+        "retweet_count": 562,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 21 17:41:12 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TV Host Fox News Channel 10 PM. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com  Retweets, Follows NOT endorsements!",
+            "favourites_count": 115,
+            "follow_request_sent": null,
+            "followers_count": 2634556,
+            "following": null,
+            "friends_count": 7590,
+            "geo_enabled": false,
+            "id": 41634520,
+            "id_str": "41634520",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16607,
+            "location": "NYC",
+            "name": "Sean Hannity",
+            "notifications": null,
+            "profile_background_color": "663333",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41634520/1398970584",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "CCCCFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "seanhannity",
+            "statuses_count": 35923,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://hannity.com",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 890649346898771968,
+    "quoted_status_id_str": "890649346898771968",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "FAKE NEWS at it again. *sigh* https://t.co/3YsPkbWq69",
+    "timestamp_ms": "1501183893817",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 20 18:29:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Constitutionalist, 21st Century conservative, photog/writer/filmmaker, scuba, biker, equestrian, yay NRA! I block porn and bait&click pushers.",
+        "favourites_count": 9038,
+        "follow_request_sent": null,
+        "followers_count": 1869,
+        "following": null,
+        "friends_count": 2103,
+        "geo_enabled": false,
+        "id": 58548955,
+        "id_str": "58548955",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Texas, USA",
+        "name": "Betty Wills",
+        "notifications": null,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157337702/hdEn580L.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157337702/hdEn580L.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58548955/1388066117",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/868706507839291392/XIxk1UGI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/868706507839291392/XIxk1UGI_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "betwills",
+        "statuses_count": 12281,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://www.bettywills.com",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:31:34 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bearingarms.com/jenn-j/2017/07\u2026",
+                "expanded_url": "https://bearingarms.com/jenn-j/2017/07/26/news-story-of-transgender-soldier/",
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/NNaXmzIr3B"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1663365468,
+                "id_str": "1663365468",
+                "indices": [
+                    91,
+                    106
+                ],
+                "name": "Bearing Arms",
+                "screen_name": "BearingArmsCom"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890655925106651137,
+    "id_str": "890655925106651137",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "de",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Dakota Meyer Demolishes Fake News Story of Transgender Soldier https://t.co/NNaXmzIr3B via @BearingArmsCom",
+    "timestamp_ms": "1501183894789",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 22 06:43:03 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "U.S. Navy Veteran-Operations Specialist-E.O.D. Mobile Unit Asst./Patriot Guard Rider/Surfer/snowboarder/outdoors lover/dog lover and fast vehicles freak!",
+        "favourites_count": 6992,
+        "follow_request_sent": null,
+        "followers_count": 347,
+        "following": null,
+        "friends_count": 692,
+        "geo_enabled": true,
+        "id": 67834193,
+        "id_str": "67834193",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Lexington, KY",
+        "name": "A. Scott Kiser",
+        "notifications": null,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67834193/1468900320",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/887406473239769088/xOy5pJEw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/887406473239769088/xOy5pJEw_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Azzli",
+        "statuses_count": 8087,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:31:34 +0000 2017",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    68,
+                    77
+                ],
+                "text": "FakeNews"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtube.com/watch?v=p7aNOq\u2026",
+                "expanded_url": "https://www.youtube.com/watch?v=p7aNOqkEix0&sns=tw",
+                "indices": [
+                    31,
+                    54
+                ],
+                "url": "https://t.co/0z1aPNZq0W"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 10228272,
+                "id_str": "10228272",
+                "indices": [
+                    59,
+                    67
+                ],
+                "name": "YouTube",
+                "screen_name": "YouTube"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890655925656145920,
+    "id_str": "890655925656145920",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+    "text": "The Hidden Origin Of Fake News https://t.co/0z1aPNZq0W via @youtube #FakeNews",
+    "timestamp_ms": "1501183894920",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 13 12:40:29 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Central Bankers steal everything from us, destroy our economy and lead us to war. Anti FED ECB EU WAR MSM LIES CIA NWO #JailTheBanksters #Tulsi2020 #Peace",
+        "favourites_count": 647,
+        "follow_request_sent": null,
+        "followers_count": 953,
+        "following": null,
+        "friends_count": 1252,
+        "geo_enabled": false,
+        "id": 215257719,
+        "id_str": "215257719",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 78,
+        "location": "World",
+        "name": "Truth and Justice",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/215257719/1377032661",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2642449730/64a1c24256ad31069927b7e548e2ae5e_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2642449730/64a1c24256ad31069927b7e548e2ae5e_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TruthAJustice",
+        "statuses_count": 24769,
+        "time_zone": "Bern",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:37:20 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/hadas_gold/sta\u2026",
+                "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                "indices": [
+                    70,
+                    93
+                ],
+                "url": "https://t.co/Muleg7VpPH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 41634520,
+                "id_str": "41634520",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Sean Hannity",
+                "screen_name": "seanhannity"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890657375673212928,
+    "id_str": "890657375673212928",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+        "display_text_range": [
+            0,
+            73
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "gq.com/story/inside-t\u2026",
+                    "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "url": "https://t.co/nLwpXDNCCf"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ]
+        },
+        "favorite_count": 493,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890641341226532864,
+        "id_str": "890641341226532864",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 375,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+            "favourites_count": 5341,
+            "follow_request_sent": null,
+            "followers_count": 44205,
+            "following": null,
+            "friends_count": 1252,
+            "geo_enabled": false,
+            "id": 70511174,
+            "id_str": "70511174",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1465,
+            "location": "Washington, D.C.",
+            "name": "Hadas Gold",
+            "notifications": null,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Hadas_Gold",
+            "statuses_count": 32428,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://politico.com/",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 890641341226532864,
+    "quoted_status_id_str": "890641341226532864",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 19:05:26 +0000 2017",
+        "display_text_range": [
+            0,
+            52
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/hadas_gold/sta\u2026",
+                    "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "url": "https://t.co/Muleg7VpPH"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1696,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890649346898771968,
+        "id_str": "890649346898771968",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+            "display_text_range": [
+                0,
+                73
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "gq.com/story/inside-t\u2026",
+                        "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                        "indices": [
+                            50,
+                            73
+                        ],
+                        "url": "https://t.co/nLwpXDNCCf"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ]
+            },
+            "favorite_count": 493,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 890641341226532864,
+            "id_str": "890641341226532864",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 375,
+            "retweeted": false,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+                "favourites_count": 5341,
+                "follow_request_sent": null,
+                "followers_count": 44205,
+                "following": null,
+                "friends_count": 1252,
+                "geo_enabled": false,
+                "id": 70511174,
+                "id_str": "70511174",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1465,
+                "location": "Washington, D.C.",
+                "name": "Hadas Gold",
+                "notifications": null,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_link_color": "038543",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Hadas_Gold",
+                "statuses_count": 32428,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "http://politico.com/",
+                "utc_offset": -14400,
+                "verified": true
+            }
+        },
+        "quoted_status_id": 890641341226532864,
+        "quoted_status_id_str": "890641341226532864",
+        "retweet_count": 663,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 21 17:41:12 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TV Host Fox News Channel 10 PM. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com  Retweets, Follows NOT endorsements!",
+            "favourites_count": 115,
+            "follow_request_sent": null,
+            "followers_count": 2634574,
+            "following": null,
+            "friends_count": 7590,
+            "geo_enabled": false,
+            "id": 41634520,
+            "id_str": "41634520",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16660,
+            "location": "NYC",
+            "name": "Sean Hannity",
+            "notifications": null,
+            "profile_background_color": "663333",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41634520/1398970584",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "CCCCFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "seanhannity",
+            "statuses_count": 35923,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://hannity.com",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @seanhannity: FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+    "timestamp_ms": "1501184240631",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 01 11:53:52 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "LIVE - LOVE - LAUGH - LEARN Christian, Wife, Aunt, and Conservative. Love singing and writing. RT's and likes mean something. But what?",
+        "favourites_count": 32763,
+        "follow_request_sent": null,
+        "followers_count": 1222,
+        "following": null,
+        "friends_count": 3443,
+        "geo_enabled": true,
+        "id": 4089591801,
+        "id_str": "4089591801",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 58,
+        "location": "Southwest Florida",
+        "name": "Julie Shera",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4089591801/1467124610",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/737103360017371136/DCxS0Wig_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/737103360017371136/DCxS0Wig_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bothered_Blonde",
+        "statuses_count": 19588,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:37:20 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "truthfeed.com/fake-news-medi\u2026",
+                "expanded_url": "http://truthfeed.com/fake-news-media-still-refusing-to-cover-massive-dnc-scandal/95509/",
+                "indices": [
+                    75,
+                    98
+                ],
+                "url": "https://t.co/XSqf6SZd86"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3167970557,
+                "id_str": "3167970557",
+                "indices": [
+                    3,
+                    13
+                ],
+                "name": "Deplorable Jim K",
+                "screen_name": "JimKuther"
+            },
+            {
+                "id": 707278892801765377,
+                "id_str": "707278892801765377",
+                "indices": [
+                    103,
+                    117
+                ],
+                "name": "TruthFeed News",
+                "screen_name": "TruthFeedNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890657375912288256,
+    "id_str": "890657375912288256",
     "in_reply_to_screen_name": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -143,119 +2318,40 @@
     "retweeted_status": {
         "contributors": null,
         "coordinates": null,
-        "created_at": "Thu Jul 27 18:36:04 +0000 2017",
-        "display_text_range": [
-            0,
-            100
-        ],
+        "created_at": "Thu Jul 27 19:20:26 +0000 2017",
         "entities": {
-            "hashtags": [
-                {
-                    "indices": [
-                        94,
-                        100
-                    ],
-                    "text": "BB4SP"
-                }
-            ],
-            "media": [
-                {
-                    "display_url": "pic.twitter.com/O9e1LZ9mvh",
-                    "expanded_url": "https://twitter.com/BB4SP/status/890641956061274112/photo/1",
-                    "id": 890641953930530816,
-                    "id_str": "890641953930530816",
-                    "indices": [
-                        101,
-                        124
-                    ],
-                    "media_url": "http://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 337,
-                            "resize": "fit",
-                            "w": 600
-                        },
-                        "medium": {
-                            "h": 337,
-                            "resize": "fit",
-                            "w": 600
-                        },
-                        "small": {
-                            "h": 337,
-                            "resize": "fit",
-                            "w": 600
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/O9e1LZ9mvh"
-                }
-            ],
+            "hashtags": [],
             "symbols": [],
             "urls": [
                 {
-                    "display_url": "bb4sp.com",
-                    "expanded_url": "http://bb4sp.com/",
+                    "display_url": "truthfeed.com/fake-news-medi\u2026",
+                    "expanded_url": "http://truthfeed.com/fake-news-media-still-refusing-to-cover-massive-dnc-scandal/95509/",
                     "indices": [
-                        70,
-                        93
+                        60,
+                        83
                     ],
-                    "url": "https://t.co/TM3sg8AXwm"
+                    "url": "https://t.co/XSqf6SZd86"
                 }
             ],
-            "user_mentions": []
-        },
-        "extended_entities": {
-            "media": [
+            "user_mentions": [
                 {
-                    "display_url": "pic.twitter.com/O9e1LZ9mvh",
-                    "expanded_url": "https://twitter.com/BB4SP/status/890641956061274112/photo/1",
-                    "id": 890641953930530816,
-                    "id_str": "890641953930530816",
+                    "id": 707278892801765377,
+                    "id_str": "707278892801765377",
                     "indices": [
-                        101,
-                        124
+                        88,
+                        102
                     ],
-                    "media_url": "http://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
-                    "media_url_https": "https://pbs.twimg.com/media/DFwyI2YW0AA_B3L.jpg",
-                    "sizes": {
-                        "large": {
-                            "h": 337,
-                            "resize": "fit",
-                            "w": 600
-                        },
-                        "medium": {
-                            "h": 337,
-                            "resize": "fit",
-                            "w": 600
-                        },
-                        "small": {
-                            "h": 337,
-                            "resize": "fit",
-                            "w": 600
-                        },
-                        "thumb": {
-                            "h": 150,
-                            "resize": "crop",
-                            "w": 150
-                        }
-                    },
-                    "type": "photo",
-                    "url": "https://t.co/O9e1LZ9mvh"
+                    "name": "TruthFeed News",
+                    "screen_name": "TruthFeedNews"
                 }
             ]
         },
-        "favorite_count": 1,
+        "favorite_count": 14,
         "favorited": false,
         "filter_level": "low",
         "geo": null,
-        "id": 890641956061274112,
-        "id_str": "890641956061274112",
+        "id": 890653123437404160,
+        "id_str": "890653123437404160",
         "in_reply_to_screen_name": null,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
@@ -265,93 +2361,1983 @@
         "lang": "en",
         "place": null,
         "possibly_sensitive": false,
-        "retweet_count": 1,
+        "retweet_count": 14,
         "retweeted": false,
-        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
-        "text": "\u2605\u2605\u2605 Patriots Who Dare... Join our fight to save America! \u27a0 Click Here https://t.co/TM3sg8AXwm #BB4SP https://t.co/O9e1LZ9mvh",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Fake News Media Still Refusing to Cover MASSIVE DNC Scandal https://t.co/XSqf6SZd86 via @truthfeednews",
         "truncated": false,
         "user": {
             "contributors_enabled": false,
-            "created_at": "Sat Jan 02 16:57:43 +0000 2010",
+            "created_at": "Wed Apr 15 02:51:20 +0000 2015",
             "default_profile": false,
             "default_profile_image": false,
-            "description": "BB's Official Twitter Account ~ Caution Barracuda Patrolled Waters ~ Followed By @DLoesch @newsbusters @GovernorPerry  @fredthompson @TwitchyTeam @chuckwoolery",
-            "favourites_count": 1528,
+            "description": "Christian         #MAGA  #TrumpTrain  #NRA  #Covfefe  #LoveMyPresident #Trump2020  NO PORN \nFollow & I Follow Back",
+            "favourites_count": 18169,
             "follow_request_sent": null,
-            "followers_count": 84492,
+            "followers_count": 29738,
             "following": null,
-            "friends_count": 53609,
+            "friends_count": 29092,
             "geo_enabled": false,
-            "id": 101264587,
-            "id_str": "101264587",
+            "id": 3167970557,
+            "id_str": "3167970557",
             "is_translator": false,
             "lang": "en",
-            "listed_count": 966,
+            "listed_count": 67,
             "location": null,
-            "name": "Barracuda Brigade",
+            "name": "Deplorable Jim K",
             "notifications": null,
-            "profile_background_color": "131516",
-            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/732168927/4ee65d63b64775b408c31b7ccb02dec3.jpeg",
-            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/732168927/4ee65d63b64775b408c31b7ccb02dec3.jpeg",
-            "profile_background_tile": true,
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/101264587/1486098115",
-            "profile_image_url": "http://pbs.twimg.com/profile_images/2913832546/1c0ecd1cfdad63a91346d02b596e0937_normal.jpeg",
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2913832546/1c0ecd1cfdad63a91346d02b596e0937_normal.jpeg",
-            "profile_link_color": "A60A0A",
-            "profile_sidebar_border_color": "FFFFFF",
-            "profile_sidebar_fill_color": "EFEFEF",
-            "profile_text_color": "333333",
-            "profile_use_background_image": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3167970557/1496528819",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/590551365107240961/AE0impOC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/590551365107240961/AE0impOC_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
             "protected": false,
-            "screen_name": "BB4SP",
-            "statuses_count": 576015,
-            "time_zone": "Central Time (US & Canada)",
-            "url": "http://www.bb4sp.com",
-            "utc_offset": -18000,
+            "screen_name": "JimKuther",
+            "statuses_count": 19663,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
             "verified": false
         }
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "text": "RT @BB4SP: \u2605\u2605\u2605 Patriots Who Dare... Join our fight to save America! \u27a0 Click Here https://t.co/TM3sg8AXwm #BB4SP https://t.co/O9e1LZ9mvh",
-    "timestamp_ms": "1501180725788",
+    "text": "RT @JimKuther: Fake News Media Still Refusing to Cover MASSIVE DNC Scandal https://t.co/XSqf6SZd86 via @truthfeednews",
+    "timestamp_ms": "1501184240688",
     "truncated": false,
     "user": {
         "contributors_enabled": false,
-        "created_at": "Tue Jul 25 15:46:55 +0000 2017",
+        "created_at": "Fri Apr 04 15:26:15 +0000 2014",
         "default_profile": true,
         "default_profile_image": false,
-        "description": "Independant",
-        "favourites_count": 1,
+        "description": "Living My Spoonie life but Crohns Disease came along for the ride! My God, My Family, Our Fur Babies, DIY & Crafting all keep me keepin' on!\n#MAGA",
+        "favourites_count": 23099,
         "follow_request_sent": null,
-        "followers_count": 33,
+        "followers_count": 1383,
         "following": null,
-        "friends_count": 138,
+        "friends_count": 4992,
         "geo_enabled": false,
-        "id": 889874611978080256,
-        "id_str": "889874611978080256",
+        "id": 2427448284,
+        "id_str": "2427448284",
         "is_translator": false,
         "lang": "en",
-        "listed_count": 0,
-        "location": "Bronx, NY",
-        "name": "Nick Corvasce",
+        "listed_count": 14,
+        "location": "Leavenworth, Kansas",
+        "name": "Audrey Housworth",
         "notifications": null,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": "",
-        "profile_background_image_url_https": "",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
         "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/890330410433073153/lhTuA9nb_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/890330410433073153/lhTuA9nb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2427448284/1488468838",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/867406507067023360/Nb2ZgcoA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/867406507067023360/Nb2ZgcoA_normal.jpg",
         "profile_link_color": "1DA1F2",
         "profile_sidebar_border_color": "C0DEED",
         "profile_sidebar_fill_color": "DDEEF6",
         "profile_text_color": "333333",
         "profile_use_background_image": true,
         "protected": false,
-        "screen_name": "bronxnic",
-        "statuses_count": 111,
+        "screen_name": "AhHousworth",
+        "statuses_count": 14296,
         "time_zone": null,
         "url": null,
         "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:37:45 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/thehill/status\u2026",
+                "expanded_url": "https://twitter.com/thehill/status/890641454816800768",
+                "indices": [
+                    80,
+                    103
+                ],
+                "url": "https://t.co/79swdF0Ri7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 772108095514406912,
+                "id_str": "772108095514406912",
+                "indices": [
+                    3,
+                    13
+                ],
+                "name": "AFREEBRIT\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8\ud83d\udc4c",
+                "screen_name": "AFREEBRIT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890657480509800448,
+    "id_str": "890657480509800448",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 18:34:04 +0000 2017",
+        "display_text_range": [
+            0,
+            94
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/WlGxEm0lG5",
+                    "expanded_url": "https://twitter.com/thehill/status/890641454816800768/photo/1",
+                    "id": 890641451926859776,
+                    "id_str": "890641451926859776",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxroRWsAAEoel.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxroRWsAAEoel.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 619,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "medium": {
+                            "h": 619,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 351,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/WlGxEm0lG5"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "hill.cm/AejUyhp",
+                    "expanded_url": "http://hill.cm/AejUyhp",
+                    "indices": [
+                        71,
+                        94
+                    ],
+                    "url": "https://t.co/89E3sOlriP"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/WlGxEm0lG5",
+                    "expanded_url": "https://twitter.com/thehill/status/890641454816800768/photo/1",
+                    "id": 890641451926859776,
+                    "id_str": "890641451926859776",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxroRWsAAEoel.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxroRWsAAEoel.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 619,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "medium": {
+                            "h": 619,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 351,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/WlGxEm0lG5"
+                }
+            ]
+        },
+        "favorite_count": 1005,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890641454816800768,
+        "id_str": "890641454816800768",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 483,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Waters brings photo of Trump mocking disabled reporter to House floor: https://t.co/89E3sOlriP https://t.co/WlGxEm0lG5",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+            "favourites_count": 26,
+            "follow_request_sent": null,
+            "followers_count": 2604028,
+            "following": null,
+            "friends_count": 823,
+            "geo_enabled": false,
+            "id": 1917731,
+            "id_str": "1917731",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 22104,
+            "location": "Washington, DC",
+            "name": "The Hill",
+            "notifications": null,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2509428/twitter_bg.gif",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2509428/twitter_bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875686425345306625/g4QmmkRQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875686425345306625/g4QmmkRQ_normal.jpg",
+            "profile_link_color": "FF0021",
+            "profile_sidebar_border_color": "ADADAA",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "thehill",
+            "statuses_count": 336097,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://www.thehill.com",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 890641454816800768,
+    "quoted_status_id_str": "890641454816800768",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 18:59:05 +0000 2017",
+        "display_text_range": [
+            0,
+            64
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/thehill/status\u2026",
+                    "expanded_url": "https://twitter.com/thehill/status/890641454816800768",
+                    "indices": [
+                        65,
+                        88
+                    ],
+                    "url": "https://t.co/79swdF0Ri7"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890647749862895617,
+        "id_str": "890647749862895617",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Jul 27 18:34:04 +0000 2017",
+            "display_text_range": [
+                0,
+                94
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/WlGxEm0lG5",
+                        "expanded_url": "https://twitter.com/thehill/status/890641454816800768/photo/1",
+                        "id": 890641451926859776,
+                        "id_str": "890641451926859776",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxroRWsAAEoel.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxroRWsAAEoel.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 619,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "medium": {
+                                "h": 619,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 351,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/WlGxEm0lG5"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "hill.cm/AejUyhp",
+                        "expanded_url": "http://hill.cm/AejUyhp",
+                        "indices": [
+                            71,
+                            94
+                        ],
+                        "url": "https://t.co/89E3sOlriP"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/WlGxEm0lG5",
+                        "expanded_url": "https://twitter.com/thehill/status/890641454816800768/photo/1",
+                        "id": 890641451926859776,
+                        "id_str": "890641451926859776",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxroRWsAAEoel.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxroRWsAAEoel.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 619,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "medium": {
+                                "h": 619,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 351,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/WlGxEm0lG5"
+                    }
+                ]
+            },
+            "favorite_count": 1005,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 890641454816800768,
+            "id_str": "890641454816800768",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 483,
+            "retweeted": false,
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "text": "Waters brings photo of Trump mocking disabled reporter to House floor: https://t.co/89E3sOlriP https://t.co/WlGxEm0lG5",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+                "favourites_count": 26,
+                "follow_request_sent": null,
+                "followers_count": 2604028,
+                "following": null,
+                "friends_count": 823,
+                "geo_enabled": false,
+                "id": 1917731,
+                "id_str": "1917731",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 22104,
+                "location": "Washington, DC",
+                "name": "The Hill",
+                "notifications": null,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2509428/twitter_bg.gif",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2509428/twitter_bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/875686425345306625/g4QmmkRQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/875686425345306625/g4QmmkRQ_normal.jpg",
+                "profile_link_color": "FF0021",
+                "profile_sidebar_border_color": "ADADAA",
+                "profile_sidebar_fill_color": "EBEBEB",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "thehill",
+                "statuses_count": 336097,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "http://www.thehill.com",
+                "utc_offset": -14400,
+                "verified": true
+            }
+        },
+        "quoted_status_id": 890641454816800768,
+        "quoted_status_id_str": "890641454816800768",
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "He wasn't mocking a disabled reporter you are very fake news ... https://t.co/79swdF0Ri7",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Sep 03 16:24:50 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "conservatism is the new counterculture and you can't stop terrorism with a #\nthe E.U is the 4th Reich #CNNBlackMail",
+            "favourites_count": 12035,
+            "follow_request_sent": null,
+            "followers_count": 992,
+            "following": null,
+            "friends_count": 325,
+            "geo_enabled": false,
+            "id": 772108095514406912,
+            "id_str": "772108095514406912",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 38,
+            "location": "United Kingdom",
+            "name": "AFREEBRIT\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8\ud83d\udc4c",
+            "notifications": null,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/772108095514406912/1498820925",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/889924682698326016/c-gqWfWm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/889924682698326016/c-gqWfWm_normal.jpg",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "AFREEBRIT",
+            "statuses_count": 69869,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @AFREEBRIT: He wasn't mocking a disabled reporter you are very fake news ... https://t.co/79swdF0Ri7",
+    "timestamp_ms": "1501184265626",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 03 10:13:57 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ANTI EU AND POLITICAL CORRECTNESS:PRO BREXIT: EASTERN EUROPEAN:LOVE TO LAUGH:A SOLDIER GIRL FAR FROM HOME :ANTI EU AND ISLAMIC INVASION OF EUROPE UK :RIGHT WING",
+        "favourites_count": 19820,
+        "follow_request_sent": null,
+        "followers_count": 1363,
+        "following": null,
+        "friends_count": 1148,
+        "geo_enabled": false,
+        "id": 827460106774315008,
+        "id_str": "827460106774315008",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Eastern Europe",
+        "name": "ladyfox",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/827460106774315008/1486118887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827468715440615424/bbwu98uy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827468715440615424/bbwu98uy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Iamfoxy3",
+        "statuses_count": 45292,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:37:45 +0000 2017",
+    "display_text_range": [
+        0,
+        97
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/AFREEBRIT/stat\u2026",
+                "expanded_url": "https://twitter.com/AFREEBRIT/status/890647749862895617",
+                "indices": [
+                    98,
+                    121
+                ],
+                "url": "https://t.co/zrcOXgFh6P"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890657480564277248,
+    "id_str": "890657480564277248",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 18:59:05 +0000 2017",
+        "display_text_range": [
+            0,
+            64
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/thehill/status\u2026",
+                    "expanded_url": "https://twitter.com/thehill/status/890641454816800768",
+                    "indices": [
+                        65,
+                        88
+                    ],
+                    "url": "https://t.co/79swdF0Ri7"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890647749862895617,
+        "id_str": "890647749862895617",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status_id": 890641454816800768,
+        "quoted_status_id_str": "890641454816800768",
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "He wasn't mocking a disabled reporter you are very fake news ... https://t.co/79swdF0Ri7",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Sep 03 16:24:50 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "conservatism is the new counterculture and you can't stop terrorism with a #\nthe E.U is the 4th Reich #CNNBlackMail",
+            "favourites_count": 12035,
+            "follow_request_sent": null,
+            "followers_count": 992,
+            "following": null,
+            "friends_count": 325,
+            "geo_enabled": false,
+            "id": 772108095514406912,
+            "id_str": "772108095514406912",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 38,
+            "location": "United Kingdom",
+            "name": "AFREEBRIT\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8\ud83d\udc4c",
+            "notifications": null,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/772108095514406912/1498820925",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/889924682698326016/c-gqWfWm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/889924682698326016/c-gqWfWm_normal.jpg",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "AFREEBRIT",
+            "statuses_count": 69869,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 890647749862895617,
+    "quoted_status_id_str": "890647749862895617",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "They all disabled in their brain thays why they fake news cant think dont donresearch m get facts https://t.co/zrcOXgFh6P",
+    "timestamp_ms": "1501184265639",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 03 10:13:57 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ANTI EU AND POLITICAL CORRECTNESS:PRO BREXIT: EASTERN EUROPEAN:LOVE TO LAUGH:A SOLDIER GIRL FAR FROM HOME :ANTI EU AND ISLAMIC INVASION OF EUROPE UK :RIGHT WING",
+        "favourites_count": 19820,
+        "follow_request_sent": null,
+        "followers_count": 1363,
+        "following": null,
+        "friends_count": 1148,
+        "geo_enabled": false,
+        "id": 827460106774315008,
+        "id_str": "827460106774315008",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Eastern Europe",
+        "name": "ladyfox",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/827460106774315008/1486118887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827468715440615424/bbwu98uy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827468715440615424/bbwu98uy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Iamfoxy3",
+        "statuses_count": 45292,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:37:45 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "breitbart.com/big-government\u2026",
+                "expanded_url": "http://www.breitbart.com/big-government/2017/07/27/politico-receives-white-house-security-access-protocols-leak-scaramucci-financial-disclosure/",
+                "indices": [
+                    98,
+                    121
+                ],
+                "url": "https://t.co/Muur5eSmbL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 21149655,
+                "id_str": "21149655",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "Arthur Schwartz",
+                "screen_name": "ArthurSchwartz"
+            },
+            {
+                "id": 9300262,
+                "id_str": "9300262",
+                "indices": [
+                    53,
+                    62
+                ],
+                "name": "POLITICO",
+                "screen_name": "politico"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890657481340235776,
+    "id_str": "890657481340235776",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 16:50:33 +0000 2017",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "breitbart.com/big-government\u2026",
+                    "expanded_url": "http://www.breitbart.com/big-government/2017/07/27/politico-receives-white-house-security-access-protocols-leak-scaramucci-financial-disclosure/",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "url": "https://t.co/Muur5eSmbL"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 9300262,
+                    "id_str": "9300262",
+                    "indices": [
+                        33,
+                        42
+                    ],
+                    "name": "POLITICO",
+                    "screen_name": "politico"
+                }
+            ]
+        },
+        "favorite_count": 340,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890615401020870657,
+        "id_str": "890615401020870657",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 271,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Hey worthless fake news hacks at @politico. Was this public information too?  https://t.co/Muur5eSmbL",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 18 00:09:13 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": null,
+            "favourites_count": 2600,
+            "follow_request_sent": null,
+            "followers_count": 13017,
+            "following": null,
+            "friends_count": 217,
+            "geo_enabled": false,
+            "id": 21149655,
+            "id_str": "21149655",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 194,
+            "location": "Manhattan, NY",
+            "name": "Arthur Schwartz",
+            "notifications": null,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21149655/1500547984",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/863561105158819841/N-SB99v3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/863561105158819841/N-SB99v3_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ArthurSchwartz",
+            "statuses_count": 26675,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ArthurSchwartz: Hey worthless fake news hacks at @politico. Was this public information too?  https://t.co/Muur5eSmbL",
+    "timestamp_ms": "1501184265824",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 05 18:12:18 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "PA\u27a1\ufe0f CA\u27a1\ufe0f TX \ud83c\uddfa\ud83c\uddf8America First! \ud83c\uddfa\ud83c\uddf8 Followed by Sean Hannity\ud83d\ude4c\ud83c\udffc. #BlueLivesMatter #CNNisISIS",
+        "favourites_count": 60870,
+        "follow_request_sent": null,
+        "followers_count": 3311,
+        "following": null,
+        "friends_count": 937,
+        "geo_enabled": true,
+        "id": 4714745576,
+        "id_str": "4714745576",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 45,
+        "location": "Texas, USA",
+        "name": "Margo",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4714745576/1501073331",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875764211560927233/Y3ONbz53_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875764211560927233/Y3ONbz53_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mhooshma16",
+        "statuses_count": 48069,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:37:46 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/hadas_gold/sta\u2026",
+                "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                "indices": [
+                    70,
+                    93
+                ],
+                "url": "https://t.co/Muleg7VpPH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 41634520,
+                "id_str": "41634520",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Sean Hannity",
+                "screen_name": "seanhannity"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890657482300719104,
+    "id_str": "890657482300719104",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+        "display_text_range": [
+            0,
+            73
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "gq.com/story/inside-t\u2026",
+                    "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "url": "https://t.co/nLwpXDNCCf"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ]
+        },
+        "favorite_count": 493,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890641341226532864,
+        "id_str": "890641341226532864",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 375,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+            "favourites_count": 5341,
+            "follow_request_sent": null,
+            "followers_count": 44205,
+            "following": null,
+            "friends_count": 1252,
+            "geo_enabled": false,
+            "id": 70511174,
+            "id_str": "70511174",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1465,
+            "location": "Washington, D.C.",
+            "name": "Hadas Gold",
+            "notifications": null,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Hadas_Gold",
+            "statuses_count": 32428,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://politico.com/",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 890641341226532864,
+    "quoted_status_id_str": "890641341226532864",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 19:05:26 +0000 2017",
+        "display_text_range": [
+            0,
+            52
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/hadas_gold/sta\u2026",
+                    "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "url": "https://t.co/Muleg7VpPH"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1713,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890649346898771968,
+        "id_str": "890649346898771968",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+            "display_text_range": [
+                0,
+                73
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "gq.com/story/inside-t\u2026",
+                        "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                        "indices": [
+                            50,
+                            73
+                        ],
+                        "url": "https://t.co/nLwpXDNCCf"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ]
+            },
+            "favorite_count": 493,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 890641341226532864,
+            "id_str": "890641341226532864",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 375,
+            "retweeted": false,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+                "favourites_count": 5341,
+                "follow_request_sent": null,
+                "followers_count": 44205,
+                "following": null,
+                "friends_count": 1252,
+                "geo_enabled": false,
+                "id": 70511174,
+                "id_str": "70511174",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1465,
+                "location": "Washington, D.C.",
+                "name": "Hadas Gold",
+                "notifications": null,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_link_color": "038543",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Hadas_Gold",
+                "statuses_count": 32428,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "http://politico.com/",
+                "utc_offset": -14400,
+                "verified": true
+            }
+        },
+        "quoted_status_id": 890641341226532864,
+        "quoted_status_id_str": "890641341226532864",
+        "retweet_count": 675,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 21 17:41:12 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TV Host Fox News Channel 10 PM. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com  Retweets, Follows NOT endorsements!",
+            "favourites_count": 115,
+            "follow_request_sent": null,
+            "followers_count": 2634573,
+            "following": null,
+            "friends_count": 7590,
+            "geo_enabled": false,
+            "id": 41634520,
+            "id_str": "41634520",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16660,
+            "location": "NYC",
+            "name": "Sean Hannity",
+            "notifications": null,
+            "profile_background_color": "663333",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41634520/1398970584",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "CCCCFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "seanhannity",
+            "statuses_count": 35923,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://hannity.com",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @seanhannity: FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+    "timestamp_ms": "1501184266053",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 11 20:05:27 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A LEGAL immigrant who voted for Trump! @POTUS #America1st #TrumpTrain #TrumpNation #TrumpSisters #MAGA\ud83c\uddfa\ud83c\uddf8\u2764\ufe0f\ud83d\udc99\ud83c\uddfa\ud83c\uddf8 #constitution Followed by DannyWilliams!",
+        "favourites_count": 6177,
+        "follow_request_sent": null,
+        "followers_count": 938,
+        "following": null,
+        "friends_count": 973,
+        "geo_enabled": false,
+        "id": 775062723054931968,
+        "id_str": "775062723054931968",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "United States",
+        "name": "WinningBigLeague\ud83c\uddfa\ud83c\uddf8",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/775062723054931968/1487644674",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/834433909228261380/Xj3nM-WC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/834433909228261380/Xj3nM-WC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Cuba_America",
+        "statuses_count": 6096,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 27 19:37:46 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/hadas_gold/sta\u2026",
+                "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                "indices": [
+                    70,
+                    93
+                ],
+                "url": "https://t.co/Muleg7VpPH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 41634520,
+                "id_str": "41634520",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Sean Hannity",
+                "screen_name": "seanhannity"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890657483047546880,
+    "id_str": "890657483047546880",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+        "display_text_range": [
+            0,
+            73
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "gq.com/story/inside-t\u2026",
+                    "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "url": "https://t.co/nLwpXDNCCf"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/2OdAskNLyF",
+                    "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                    "id": 890641301506576385,
+                    "id_str": "890641301506576385",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 105,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "small": {
+                            "h": 85,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 105,
+                            "resize": "crop",
+                            "w": 105
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/2OdAskNLyF"
+                }
+            ]
+        },
+        "favorite_count": 493,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890641341226532864,
+        "id_str": "890641341226532864",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 375,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+            "favourites_count": 5341,
+            "follow_request_sent": null,
+            "followers_count": 44206,
+            "following": null,
+            "friends_count": 1252,
+            "geo_enabled": false,
+            "id": 70511174,
+            "id_str": "70511174",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1466,
+            "location": "Washington, D.C.",
+            "name": "Hadas Gold",
+            "notifications": null,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Hadas_Gold",
+            "statuses_count": 32428,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://politico.com/",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 890641341226532864,
+    "quoted_status_id_str": "890641341226532864",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 19:05:26 +0000 2017",
+        "display_text_range": [
+            0,
+            52
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/hadas_gold/sta\u2026",
+                    "expanded_url": "https://twitter.com/hadas_gold/status/890641341226532864",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "url": "https://t.co/Muleg7VpPH"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1714,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890649346898771968,
+        "id_str": "890649346898771968",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Jul 27 18:33:37 +0000 2017",
+            "display_text_range": [
+                0,
+                73
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "gq.com/story/inside-t\u2026",
+                        "expanded_url": "http://www.gq.com/story/inside-trump-international-hotel-center-of-trumpism",
+                        "indices": [
+                            50,
+                            73
+                        ],
+                        "url": "https://t.co/nLwpXDNCCf"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2OdAskNLyF",
+                        "expanded_url": "https://twitter.com/Hadas_Gold/status/890641341226532864/photo/1",
+                        "id": 890641301506576385,
+                        "id_str": "890641301506576385",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFwxi36XUAEDUDj.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "medium": {
+                                "h": 105,
+                                "resize": "fit",
+                                "w": 838
+                            },
+                            "small": {
+                                "h": 85,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 105,
+                                "resize": "crop",
+                                "w": 105
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/2OdAskNLyF"
+                    }
+                ]
+            },
+            "favorite_count": 493,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 890641341226532864,
+            "id_str": "890641341226532864",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 375,
+            "retweeted": false,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "uhhhh GQ reports Hannity spent 42K at Trump hotel https://t.co/nLwpXDNCCf https://t.co/2OdAskNLyF",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Aug 31 21:51:59 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I'm a media reporter for @politico and a @fox5dc contributor. Send me your news and recipes hgold@politico.com TLV \u27a1\ufe0f PHX \u27a1\ufe0f DCA",
+                "favourites_count": 5341,
+                "follow_request_sent": null,
+                "followers_count": 44206,
+                "following": null,
+                "friends_count": 1252,
+                "geo_enabled": false,
+                "id": 70511174,
+                "id_str": "70511174",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1466,
+                "location": "Washington, D.C.",
+                "name": "Hadas Gold",
+                "notifications": null,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/70511174/1472607585",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/851446434910089216/NUKpBsLo_normal.jpg",
+                "profile_link_color": "038543",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Hadas_Gold",
+                "statuses_count": 32428,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "http://politico.com/",
+                "utc_offset": -14400,
+                "verified": true
+            }
+        },
+        "quoted_status_id": 890641341226532864,
+        "quoted_status_id_str": "890641341226532864",
+        "retweet_count": 676,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 21 17:41:12 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TV Host Fox News Channel 10 PM. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com  Retweets, Follows NOT endorsements!",
+            "favourites_count": 115,
+            "follow_request_sent": null,
+            "followers_count": 2634574,
+            "following": null,
+            "friends_count": 7590,
+            "geo_enabled": false,
+            "id": 41634520,
+            "id_str": "41634520",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16611,
+            "location": "NYC",
+            "name": "Sean Hannity",
+            "notifications": null,
+            "profile_background_color": "663333",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111343835/4ed961f1836bf5e9e1ae3de108c38501.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41634520/1398970584",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "CCCCFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "seanhannity",
+            "statuses_count": 35923,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://hannity.com",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @seanhannity: FAKE NEWS!!  Ridiculous Fake News!!  NEVER HAPPENED. https://t.co/Muleg7VpPH",
+    "timestamp_ms": "1501184266231",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 13 17:22:34 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Exact science is the quantitative study of the quantitative aspects of objects in motion. -JAKI-",
+        "favourites_count": 9944,
+        "follow_request_sent": null,
+        "followers_count": 754,
+        "following": null,
+        "friends_count": 1782,
+        "geo_enabled": false,
+        "id": 1009299746,
+        "id_str": "1009299746",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 69,
+        "location": null,
+        "name": "Vinces Labarum",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009299746/1476305865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3063859196/f3d346648fadd3a1ed5fdafb28675a6c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3063859196/f3d346648fadd3a1ed5fdafb28675a6c_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "VLabarum",
+        "statuses_count": 37215,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
         "verified": false
     }
 }
