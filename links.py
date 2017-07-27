@@ -5,8 +5,7 @@ from tweepy import OAuthHandler
 import config
 import json
 import sys
-# import csv
-import pandas as pd
+import pandas
 
 # create twitter app, store consumer key & secret, access token & secret in config.py
 auth = OAuthHandler(config.consumer_key, config.consumer_secret)
@@ -18,7 +17,7 @@ if (not api):
 	print ("Can't authenticate")
 	sys.exit(-1)
 
-csv_data = pd.read_csv("fake-news-sites.csv")
+csv_data = pandas.read_csv("problem-sites.csv")
 target_urls = list(csv_data['Site name'].values)
 # print(target_urls)
 
