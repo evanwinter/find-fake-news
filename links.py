@@ -43,8 +43,11 @@ class MyListener(StreamListener):
                         
                         full_url = tweet_urls[0]['expanded_url']
                         
-                        # store it
-                        f.write(json.dumps(full_url, indent=4, sort_keys=True)+'\n')
+                        # store the link
+                        # f.write(json.dumps(full_url, indent=4, sort_keys=True)+'\n')
+
+                        # store the whole tweet data
+                        f.write(json.dumps(tweetdict, indent=4, sort_keys=True))
                         
                         print('** tweet stored **')
 
