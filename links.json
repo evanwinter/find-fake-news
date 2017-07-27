@@ -1,0 +1,1466 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 26 00:51:32 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "expanded_url": null,
+                "indices": [
+                    133,
+                    133
+                ],
+                "url": ""
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 29800030,
+                "id_str": "29800030",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Gary",
+                "screen_name": "pitpony2011"
+            },
+            {
+                "id": 14529929,
+                "id_str": "14529929",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "Jake Tapper",
+                "screen_name": "jaketapper"
+            },
+            {
+                "id": 827258161841135623,
+                "id_str": "827258161841135623",
+                "indices": [
+                    29,
+                    44
+                ],
+                "name": "Secretary Ryan Zinke",
+                "screen_name": "SecretaryZinke"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890011669346299904,
+    "id_str": "890011669346299904",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Jul 24 23:08:32 +0000 2017",
+        "display_text_range": [
+            28,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/8\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/889623360346484737",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/k98pfI1aeb"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 14529929,
+                    "id_str": "14529929",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "Jake Tapper",
+                    "screen_name": "jaketapper"
+                },
+                {
+                    "id": 827258161841135623,
+                    "id_str": "827258161841135623",
+                    "indices": [
+                        12,
+                        27
+                    ],
+                    "name": "Secretary Ryan Zinke",
+                    "screen_name": "SecretaryZinke"
+                }
+            ]
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                28,
+                153
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/vJxJ7GpHTR",
+                        "expanded_url": "https://twitter.com/pitpony2011/status/889623360346484737/photo/1",
+                        "id": 889623316998311940,
+                        "id_str": "889623316998311940",
+                        "indices": [
+                            154,
+                            177
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFiTsYGW0AQTBPA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFiTsYGW0AQTBPA.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 320,
+                                "resize": "fit",
+                                "w": 601
+                            },
+                            "medium": {
+                                "h": 320,
+                                "resize": "fit",
+                                "w": 601
+                            },
+                            "small": {
+                                "h": 320,
+                                "resize": "fit",
+                                "w": 601
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/vJxJ7GpHTR"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 14529929,
+                        "id_str": "14529929",
+                        "indices": [
+                            0,
+                            11
+                        ],
+                        "name": "Jake Tapper",
+                        "screen_name": "jaketapper"
+                    },
+                    {
+                        "id": 827258161841135623,
+                        "id_str": "827258161841135623",
+                        "indices": [
+                            12,
+                            27
+                        ],
+                        "name": "Secretary Ryan Zinke",
+                        "screen_name": "SecretaryZinke"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/vJxJ7GpHTR",
+                        "expanded_url": "https://twitter.com/pitpony2011/status/889623360346484737/photo/1",
+                        "id": 889623316998311940,
+                        "id_str": "889623316998311940",
+                        "indices": [
+                            154,
+                            177
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFiTsYGW0AQTBPA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFiTsYGW0AQTBPA.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 320,
+                                "resize": "fit",
+                                "w": 601
+                            },
+                            "medium": {
+                                "h": 320,
+                                "resize": "fit",
+                                "w": 601
+                            },
+                            "small": {
+                                "h": 320,
+                                "resize": "fit",
+                                "w": 601
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/vJxJ7GpHTR"
+                    }
+                ]
+            },
+            "full_text": "@jaketapper @SecretaryZinke Talking \"fake news\" and \"fake media\" to a bunch of Boy Scouts......And how he \"wishes\" more around him were more \"loyal\"..... https://t.co/vJxJ7GpHTR"
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 889623360346484737,
+        "id_str": "889623360346484737",
+        "in_reply_to_screen_name": "jaketapper",
+        "in_reply_to_status_id": 889616607391166464,
+        "in_reply_to_status_id_str": "889616607391166464",
+        "in_reply_to_user_id": 14529929,
+        "in_reply_to_user_id_str": "14529929",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@jaketapper @SecretaryZinke Talking \"fake news\" and \"fake media\" to a bunch of Boy Scouts......And how he \"wishes\"\u2026 https://t.co/k98pfI1aeb",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 08 19:41:07 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": null,
+            "favourites_count": 30299,
+            "follow_request_sent": null,
+            "followers_count": 230,
+            "following": null,
+            "friends_count": 250,
+            "geo_enabled": true,
+            "id": 29800030,
+            "id_str": "29800030",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 52,
+            "location": "Nova Scotia, Canada",
+            "name": "Gary",
+            "notifications": null,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29800030/1419203210",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/546803605240422400/VuGxuZLK_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/546803605240422400/VuGxuZLK_normal.jpeg",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "pitpony2011",
+            "statuses_count": 42946,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @pitpony2011: @jaketapper @SecretaryZinke Talking \"fake news\" and \"fake media\" to a bunch of Boy Scouts......And how he \"wishes\"\u2026 ",
+    "timestamp_ms": "1501030292246",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 08 01:57:30 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Biologist, MSU Fan, Retired Navy,Scottish Highland Games Athlete",
+        "favourites_count": 5230,
+        "follow_request_sent": null,
+        "followers_count": 204,
+        "following": null,
+        "friends_count": 402,
+        "geo_enabled": false,
+        "id": 4138348701,
+        "id_str": "4138348701",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": null,
+        "name": "K. R. Youngberg",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663419459764400128/CdzPHpt8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663419459764400128/CdzPHpt8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "caberkev",
+        "statuses_count": 2493,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 26 00:51:32 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/omgMyCat/statu\u2026",
+                "expanded_url": "https://twitter.com/omgMyCat/status/890003991911968768",
+                "indices": [
+                    102,
+                    125
+                ],
+                "url": "https://t.co/k883QXk610"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2802616144,
+                "id_str": "2802616144",
+                "indices": [
+                    3,
+                    13
+                ],
+                "name": "don turco",
+                "screen_name": "Calltoart"
+            },
+            {
+                "id": 14529929,
+                "id_str": "14529929",
+                "indices": [
+                    15,
+                    26
+                ],
+                "name": "Jake Tapper",
+                "screen_name": "jaketapper"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890011671732920320,
+    "id_str": "890011671732920320",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jul 26 00:21:01 +0000 2017",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/8\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/890003991911968768",
+                    "indices": [
+                        106,
+                        129
+                    ],
+                    "url": "https://t.co/ZLYMU6XreD"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 759251,
+                    "id_str": "759251",
+                    "indices": [
+                        5,
+                        9
+                    ],
+                    "name": "CNN",
+                    "screen_name": "CNN"
+                },
+                {
+                    "id": 14173315,
+                    "id_str": "14173315",
+                    "indices": [
+                        11,
+                        19
+                    ],
+                    "name": "NBC News",
+                    "screen_name": "NBCNews"
+                },
+                {
+                    "id": 15012486,
+                    "id_str": "15012486",
+                    "indices": [
+                        21,
+                        29
+                    ],
+                    "name": "CBS News",
+                    "screen_name": "CBSNews"
+                }
+            ]
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                0,
+                129
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            107,
+                            117
+                        ],
+                        "text": "ImranAwan"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/kLexEJJRV4",
+                        "expanded_url": "https://twitter.com/omgMyCat/status/890003991911968768/photo/1",
+                        "id": 890002348155617280,
+                        "id_str": "890002348155617280",
+                        "indices": [
+                            130,
+                            153
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFnsa5MUQAAY9se.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFnsa5MUQAAY9se.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 818,
+                                "resize": "fit",
+                                "w": 667
+                            },
+                            "medium": {
+                                "h": 818,
+                                "resize": "fit",
+                                "w": 667
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 554
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/kLexEJJRV4"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 759251,
+                        "id_str": "759251",
+                        "indices": [
+                            5,
+                            9
+                        ],
+                        "name": "CNN",
+                        "screen_name": "CNN"
+                    },
+                    {
+                        "id": 14173315,
+                        "id_str": "14173315",
+                        "indices": [
+                            11,
+                            19
+                        ],
+                        "name": "NBC News",
+                        "screen_name": "NBCNews"
+                    },
+                    {
+                        "id": 15012486,
+                        "id_str": "15012486",
+                        "indices": [
+                            21,
+                            29
+                        ],
+                        "name": "CBS News",
+                        "screen_name": "CBSNews"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/kLexEJJRV4",
+                        "expanded_url": "https://twitter.com/omgMyCat/status/890003991911968768/photo/1",
+                        "id": 890002348155617280,
+                        "id_str": "890002348155617280",
+                        "indices": [
+                            130,
+                            153
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DFnsa5MUQAAY9se.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DFnsa5MUQAAY9se.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 818,
+                                "resize": "fit",
+                                "w": 667
+                            },
+                            "medium": {
+                                "h": 818,
+                                "resize": "fit",
+                                "w": 667
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 554
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/kLexEJJRV4"
+                    }
+                ]
+            },
+            "full_text": "Hey \n@CNN \n@NBCnews \n@CBSnews \n\nDo you really think we don't notice your desire to not cover this story? \n\n#ImranAwan \nImran Awan https://t.co/kLexEJJRV4"
+        },
+        "favorite_count": 21,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890003991911968768,
+        "id_str": "890003991911968768",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 14,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Hey \n@CNN \n@NBCnews \n@CBSnews \n\nDo you really think we don't notice your desire to not cover this story?\u2026 https://t.co/ZLYMU6XreD",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Oct 18 17:20:09 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Casual chauvinist. Opportunistic cultural appropriator. Shameless and flagrant user of THE MALE GAZE. Art. Music. Cat.",
+            "favourites_count": 12038,
+            "follow_request_sent": null,
+            "followers_count": 1097,
+            "following": null,
+            "friends_count": 1172,
+            "geo_enabled": false,
+            "id": 2836353328,
+            "id_str": "2836353328",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 23,
+            "location": null,
+            "name": "Drew",
+            "notifications": null,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836353328/1413670648",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/686249633945792513/7FrsKvQR_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/686249633945792513/7FrsKvQR_normal.png",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "omgMyCat",
+            "statuses_count": 16922,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 890003991911968768,
+    "quoted_status_id_str": "890003991911968768",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jul 26 00:45:39 +0000 2017",
+        "display_text_range": [
+            0,
+            86
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/omgMyCat/statu\u2026",
+                    "expanded_url": "https://twitter.com/omgMyCat/status/890003991911968768",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "url": "https://t.co/k883QXk610"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 14529929,
+                    "id_str": "14529929",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "Jake Tapper",
+                    "screen_name": "jaketapper"
+                }
+            ]
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890010189495246849,
+        "id_str": "890010189495246849",
+        "in_reply_to_screen_name": "jaketapper",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 14529929,
+        "in_reply_to_user_id_str": "14529929",
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Jul 26 00:21:01 +0000 2017",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/8\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/890003991911968768",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/ZLYMU6XreD"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 759251,
+                        "id_str": "759251",
+                        "indices": [
+                            5,
+                            9
+                        ],
+                        "name": "CNN",
+                        "screen_name": "CNN"
+                    },
+                    {
+                        "id": 14173315,
+                        "id_str": "14173315",
+                        "indices": [
+                            11,
+                            19
+                        ],
+                        "name": "NBC News",
+                        "screen_name": "NBCNews"
+                    },
+                    {
+                        "id": 15012486,
+                        "id_str": "15012486",
+                        "indices": [
+                            21,
+                            29
+                        ],
+                        "name": "CBS News",
+                        "screen_name": "CBSNews"
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "display_text_range": [
+                    0,
+                    129
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                107,
+                                117
+                            ],
+                            "text": "ImranAwan"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/kLexEJJRV4",
+                            "expanded_url": "https://twitter.com/omgMyCat/status/890003991911968768/photo/1",
+                            "id": 890002348155617280,
+                            "id_str": "890002348155617280",
+                            "indices": [
+                                130,
+                                153
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DFnsa5MUQAAY9se.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DFnsa5MUQAAY9se.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 818,
+                                    "resize": "fit",
+                                    "w": 667
+                                },
+                                "medium": {
+                                    "h": 818,
+                                    "resize": "fit",
+                                    "w": 667
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "resize": "fit",
+                                    "w": 554
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/kLexEJJRV4"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id": 759251,
+                            "id_str": "759251",
+                            "indices": [
+                                5,
+                                9
+                            ],
+                            "name": "CNN",
+                            "screen_name": "CNN"
+                        },
+                        {
+                            "id": 14173315,
+                            "id_str": "14173315",
+                            "indices": [
+                                11,
+                                19
+                            ],
+                            "name": "NBC News",
+                            "screen_name": "NBCNews"
+                        },
+                        {
+                            "id": 15012486,
+                            "id_str": "15012486",
+                            "indices": [
+                                21,
+                                29
+                            ],
+                            "name": "CBS News",
+                            "screen_name": "CBSNews"
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/kLexEJJRV4",
+                            "expanded_url": "https://twitter.com/omgMyCat/status/890003991911968768/photo/1",
+                            "id": 890002348155617280,
+                            "id_str": "890002348155617280",
+                            "indices": [
+                                130,
+                                153
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DFnsa5MUQAAY9se.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DFnsa5MUQAAY9se.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 818,
+                                    "resize": "fit",
+                                    "w": 667
+                                },
+                                "medium": {
+                                    "h": 818,
+                                    "resize": "fit",
+                                    "w": 667
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "resize": "fit",
+                                    "w": 554
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/kLexEJJRV4"
+                        }
+                    ]
+                },
+                "full_text": "Hey \n@CNN \n@NBCnews \n@CBSnews \n\nDo you really think we don't notice your desire to not cover this story? \n\n#ImranAwan \nImran Awan https://t.co/kLexEJJRV4"
+            },
+            "favorite_count": 21,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 890003991911968768,
+            "id_str": "890003991911968768",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 14,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Hey \n@CNN \n@NBCnews \n@CBSnews \n\nDo you really think we don't notice your desire to not cover this story?\u2026 https://t.co/ZLYMU6XreD",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Oct 18 17:20:09 +0000 2014",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Casual chauvinist. Opportunistic cultural appropriator. Shameless and flagrant user of THE MALE GAZE. Art. Music. Cat.",
+                "favourites_count": 12038,
+                "follow_request_sent": null,
+                "followers_count": 1097,
+                "following": null,
+                "friends_count": 1172,
+                "geo_enabled": false,
+                "id": 2836353328,
+                "id_str": "2836353328",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 23,
+                "location": null,
+                "name": "Drew",
+                "notifications": null,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836353328/1413670648",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/686249633945792513/7FrsKvQR_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/686249633945792513/7FrsKvQR_normal.png",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "omgMyCat",
+                "statuses_count": 16922,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": null,
+                "utc_offset": -14400,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 890003991911968768,
+        "quoted_status_id_str": "890003991911968768",
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@jaketapper Now's your chance to not be fake News. Cover this real story for a change. https://t.co/k883QXk610",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Oct 03 19:17:43 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": null,
+            "favourites_count": 26926,
+            "follow_request_sent": null,
+            "followers_count": 606,
+            "following": null,
+            "friends_count": 1322,
+            "geo_enabled": true,
+            "id": 2802616144,
+            "id_str": "2802616144",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 62,
+            "location": null,
+            "name": "don turco",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2802616144/1476487123",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/787070050062651392/SneJjiZf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/787070050062651392/SneJjiZf_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Calltoart",
+            "statuses_count": 73139,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Calltoart: @jaketapper Now's your chance to not be fake News. Cover this real story for a change. https://t.co/k883QXk610",
+    "timestamp_ms": "1501030292815",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 14 13:29:06 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Christian, truth seeker, pro-Constitution. pro-Israel, pro-life #MAGA #prayforDJT #pedogate is real. Justice 4 #SethRich @MegHedges is former account",
+        "favourites_count": 369,
+        "follow_request_sent": null,
+        "followers_count": 206,
+        "following": null,
+        "friends_count": 339,
+        "geo_enabled": false,
+        "id": 885853662001725440,
+        "id_str": "885853662001725440",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": null,
+        "name": "#DrainTheSwamp",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/885853662001725440/1500054494",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/885919176598069248/VFJjV9l7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/885919176598069248/VFJjV9l7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MegHedges2",
+        "statuses_count": 719,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 26 00:51:35 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "expanded_url": null,
+                "indices": [
+                    137,
+                    137
+                ],
+                "url": ""
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 129571843,
+                "id_str": "129571843",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "Kyle Morris",
+                "screen_name": "RealKyleMorris"
+            },
+            {
+                "id": 2417586104,
+                "id_str": "2417586104",
+                "indices": [
+                    43,
+                    52
+                ],
+                "name": "Sebastian Gorka DrG",
+                "screen_name": "SebGorka"
+            },
+            {
+                "id": 471672239,
+                "id_str": "471672239",
+                "indices": [
+                    54,
+                    69
+                ],
+                "name": "Kellyanne Conway",
+                "screen_name": "KellyannePolls"
+            },
+            {
+                "id": 2279098645,
+                "id_str": "2279098645",
+                "indices": [
+                    71,
+                    85
+                ],
+                "name": "Dave Brat VA 7th",
+                "screen_name": "DaveBratVA7th"
+            },
+            {
+                "id": 42337890,
+                "id_str": "42337890",
+                "indices": [
+                    91,
+                    105
+                ],
+                "name": "Scott Taylor",
+                "screen_name": "Scotttaylorva"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890011684009594883,
+    "id_str": "890011684009594883",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jul 26 00:41:48 +0000 2017",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/8\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/890009222867537920",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/sjxnWaluJp"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 2417586104,
+                    "id_str": "2417586104",
+                    "indices": [
+                        23,
+                        32
+                    ],
+                    "name": "Sebastian Gorka DrG",
+                    "screen_name": "SebGorka"
+                },
+                {
+                    "id": 471672239,
+                    "id_str": "471672239",
+                    "indices": [
+                        34,
+                        49
+                    ],
+                    "name": "Kellyanne Conway",
+                    "screen_name": "KellyannePolls"
+                },
+                {
+                    "id": 2279098645,
+                    "id_str": "2279098645",
+                    "indices": [
+                        51,
+                        65
+                    ],
+                    "name": "Dave Brat VA 7th",
+                    "screen_name": "DaveBratVA7th"
+                },
+                {
+                    "id": 42337890,
+                    "id_str": "42337890",
+                    "indices": [
+                        71,
+                        85
+                    ],
+                    "name": "Scott Taylor",
+                    "screen_name": "Scotttaylorva"
+                }
+            ]
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                0,
+                131
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/yfoXb4qaDI",
+                        "expanded_url": "https://twitter.com/RealKyleMorris/status/890009222867537920/video/1",
+                        "id": 890008637481025537,
+                        "id_str": "890008637481025537",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/890008637481025537/pu/img/o6zeOC6SQJe_o9wd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/890008637481025537/pu/img/o6zeOC6SQJe_o9wd.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 576,
+                                "resize": "fit",
+                                "w": 1024
+                            },
+                            "medium": {
+                                "h": 338,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 191,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "video",
+                        "url": "https://t.co/yfoXb4qaDI",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 99413,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/890008637481025537/pu/pl/v29MK6-L0ibHYqcg.m3u8"
+                                },
+                                {
+                                    "bitrate": 320000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/890008637481025537/pu/vid/320x180/XYOj94ykldvINqmG.mp4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/890008637481025537/pu/vid/640x360/4YP7VOcwSlO_wJoN.mp4"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/890008637481025537/pu/vid/1280x720/P-ZHi4LubVB6J_N1.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 2417586104,
+                        "id_str": "2417586104",
+                        "indices": [
+                            23,
+                            32
+                        ],
+                        "name": "Sebastian Gorka DrG",
+                        "screen_name": "SebGorka"
+                    },
+                    {
+                        "id": 471672239,
+                        "id_str": "471672239",
+                        "indices": [
+                            34,
+                            49
+                        ],
+                        "name": "Kellyanne Conway",
+                        "screen_name": "KellyannePolls"
+                    },
+                    {
+                        "id": 2279098645,
+                        "id_str": "2279098645",
+                        "indices": [
+                            51,
+                            65
+                        ],
+                        "name": "Dave Brat VA 7th",
+                        "screen_name": "DaveBratVA7th"
+                    },
+                    {
+                        "id": 42337890,
+                        "id_str": "42337890",
+                        "indices": [
+                            71,
+                            85
+                        ],
+                        "name": "Scott Taylor",
+                        "screen_name": "Scotttaylorva"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/yfoXb4qaDI",
+                        "expanded_url": "https://twitter.com/RealKyleMorris/status/890009222867537920/video/1",
+                        "id": 890008637481025537,
+                        "id_str": "890008637481025537",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/890008637481025537/pu/img/o6zeOC6SQJe_o9wd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/890008637481025537/pu/img/o6zeOC6SQJe_o9wd.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 576,
+                                "resize": "fit",
+                                "w": 1024
+                            },
+                            "medium": {
+                                "h": 338,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 191,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "video",
+                        "url": "https://t.co/yfoXb4qaDI",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 99413,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/890008637481025537/pu/pl/v29MK6-L0ibHYqcg.m3u8"
+                                },
+                                {
+                                    "bitrate": 320000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/890008637481025537/pu/vid/320x180/XYOj94ykldvINqmG.mp4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/890008637481025537/pu/vid/640x360/4YP7VOcwSlO_wJoN.mp4"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/890008637481025537/pu/vid/1280x720/P-ZHi4LubVB6J_N1.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "full_text": "Republicans, including @SebGorka, @KellyannePolls, @DaveBratVA7th, and @Scotttaylorva, have stood up to CNN's reports of fake news. https://t.co/yfoXb4qaDI"
+        },
+        "favorite_count": 42,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890009222867537920,
+        "id_str": "890009222867537920",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 28,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "Republicans, including @SebGorka, @KellyannePolls, @DaveBratVA7th, and @Scotttaylorva, have stood up to CNN's repor\u2026 https://t.co/sjxnWaluJp",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Apr 04 19:05:00 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "University of Alabama '18 | Journalist | @TPUSA | Founder & Editor-in-Chief of @conservsavage.",
+            "favourites_count": 24915,
+            "follow_request_sent": null,
+            "followers_count": 51947,
+            "following": null,
+            "friends_count": 1755,
+            "geo_enabled": true,
+            "id": 129571843,
+            "id_str": "129571843",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 199,
+            "location": "kyle@conservativesavage.com",
+            "name": "Kyle Morris",
+            "notifications": null,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/584347044/x73qaa67u44jitnb76rz.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/584347044/x73qaa67u44jitnb76rz.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/129571843/1496805679",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/855634941643829248/aJ43LmF3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/855634941643829248/aJ43LmF3_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "RealKyleMorris",
+            "statuses_count": 26343,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://conservativesavage.com",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RealKyleMorris: Republicans, including @SebGorka, @KellyannePolls, @DaveBratVA7th, and @Scotttaylorva, have stood up to CNN's repor\u2026 ",
+    "timestamp_ms": "1501030295742",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 13 13:49:39 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#MakeAmericaGreatAgain",
+        "favourites_count": 60049,
+        "follow_request_sent": null,
+        "followers_count": 36372,
+        "following": null,
+        "friends_count": 20586,
+        "geo_enabled": false,
+        "id": 39753444,
+        "id_str": "39753444",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 176,
+        "location": null,
+        "name": "Heather \u2764\ufe0f\ud83c\uddfa\ud83c\uddf8",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39753444/1473783978",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/885939511833841664/Vk7Mbjhs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/885939511833841664/Vk7Mbjhs_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hrenee80",
+        "statuses_count": 53667,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
