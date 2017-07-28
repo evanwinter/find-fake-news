@@ -1,0 +1,671 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 28 00:12:22 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "washingtonpost.com/news/morning-m\u2026",
+                "expanded_url": "https://www.washingtonpost.com/news/morning-mix/wp/2017/07/25/trumps-boy-scouts-speech-broke-with-80-years-of-presidential-tradition/?utm_term=.0f4e3fec9968",
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/zzsS1SoN1F"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 452521774,
+                "id_str": "452521774",
+                "indices": [
+                    3,
+                    14
+                ],
+                "name": "Christopher Ingraham",
+                "screen_name": "_cingraham"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890726588505104384,
+    "id_str": "890726588505104384",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jul 25 12:17:33 +0000 2017",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "washingtonpost.com/news/morning-m\u2026",
+                    "expanded_url": "https://www.washingtonpost.com/news/morning-mix/wp/2017/07/25/trumps-boy-scouts-speech-broke-with-80-years-of-presidential-tradition/?utm_term=.0f4e3fec9968",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "url": "https://t.co/zzsS1SoN1F"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 3129,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 889821925811167232,
+        "id_str": "889821925811167232",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2071,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Scout Jamboree speech themes:\nClinton: Giving back\nW Bush: Freedom\nObama: Service\nTrump: Trump\nhttps://t.co/zzsS1SoN1F",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jan 01 23:27:55 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Washington Post data reporter. Drugs, guns, data, hot dish. christopher.ingraham@washpost.com",
+            "favourites_count": 15499,
+            "follow_request_sent": null,
+            "followers_count": 30983,
+            "following": null,
+            "friends_count": 1147,
+            "geo_enabled": true,
+            "id": 452521774,
+            "id_str": "452521774",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1249,
+            "location": "Red Lake Falls, MN",
+            "name": "Christopher Ingraham",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/452521774/1441287638",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/887093383335825408/2dI7gPyn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/887093383335825408/2dI7gPyn_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "_cingraham",
+            "statuses_count": 40463,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://www.washingtonpost.com/pb/christopher-ingraham",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @_cingraham: Scout Jamboree speech themes:\nClinton: Giving back\nW Bush: Freedom\nObama: Service\nTrump: Trump\nhttps://t.co/zzsS1SoN1F",
+    "timestamp_ms": "1501200742256",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 12 22:38:56 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Proud @TempleUniv graduate \nEngage, Support and Contribute\n#TempleMade #JERSEYStrong",
+        "favourites_count": 14239,
+        "follow_request_sent": null,
+        "followers_count": 1004,
+        "following": null,
+        "friends_count": 2443,
+        "geo_enabled": true,
+        "id": 353963176,
+        "id_str": "353963176",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 54,
+        "location": "Toms River, NJ",
+        "name": "Maria Sammut-Mascaro",
+        "notifications": null,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378877109/x3f135125400080a06c326054ea7747b.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378877109/x3f135125400080a06c326054ea7747b.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/353963176/1453219172",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748518179836596224/xWagXt8j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748518179836596224/xWagXt8j_normal.jpg",
+        "profile_link_color": "0051FF",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MariaSammutMasc",
+        "statuses_count": 17467,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://www.linkedin.com/pub/maria-sammut-mascaro/31/863/940",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 28 00:12:23 +0000 2017",
+    "display_text_range": [
+        0,
+        48
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/nbc_skippy/sta\u2026",
+                "expanded_url": "https://twitter.com/nbc_skippy/status/890723794905571328",
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/xtvjv6VNzx"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890726592497860608,
+    "id_str": "890726592497860608",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "ja",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jul 28 00:01:16 +0000 2017",
+        "display_text_range": [
+            0,
+            73
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        57,
+                        66
+                    ],
+                    "text": "\u306a\u3046NBC\u30e9\u30b8\u30aa"
+                },
+                {
+                    "indices": [
+                        67,
+                        73
+                    ],
+                    "text": "nbcrd"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/tf2Z8eVjCd",
+                    "expanded_url": "https://twitter.com/nbc_skippy/status/890723794905571328/photo/1",
+                    "id": 890723770729603072,
+                    "id_str": "890723770729603072",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFx8jNtVoAAPDVJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFx8jNtVoAAPDVJ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1536,
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 900,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/tf2Z8eVjCd"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/tf2Z8eVjCd",
+                    "expanded_url": "https://twitter.com/nbc_skippy/status/890723794905571328/photo/1",
+                    "id": 890723770729603072,
+                    "id_str": "890723770729603072",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFx8jNtVoAAPDVJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFx8jNtVoAAPDVJ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1536,
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 900,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/tf2Z8eVjCd"
+                }
+            ]
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890723794905571328,
+        "id_str": "890723794905571328",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "ja",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            129.876144,
+                            32.982999
+                        ],
+                        [
+                            129.876144,
+                            33.090677
+                        ],
+                        [
+                            130.042753,
+                            33.090677
+                        ],
+                        [
+                            130.042753,
+                            32.982999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "country": "\u65e5\u672c",
+            "country_code": "JP",
+            "full_name": "\u9577\u5d0e \u6771\u5f7c\u6775\u753a",
+            "id": "70edda34ea0cfd60",
+            "name": "\u6771\u5f7c\u6775\u753a",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/70edda34ea0cfd60.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u5927\u6751\u6e7ePA\u306b\u3084\u3063\u3066\u304d\u307e\u3057\u305f\u2606\u4eca\u671d\u306f\u7a7a\u304c\u767d\u304f\u6fc1\u3063\u3066\u3044\u307e\u3059\u3088(&gt;_&lt;)\u6b8b\u5ff5\u2026\u5927\u6751\u6e7e\u3082\u767d\u304f\u3066\u898b\u3048\u307e\u305b\u3093\ud83d\udca7\n\n#\u306a\u3046NBC\u30e9\u30b8\u30aa\n#nbcrd https://t.co/tf2Z8eVjCd",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 31 04:44:30 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "\u30b9\u30ad\u30c3\u30d4\u30fc\u30ab\u30fc\u3067\u770c\u5185\u5404\u5730\u3092\u8d70\u308a\u56de\u308a\u3001\u30a8\u30ea\u30a2\u5185\u306e\u6700\u65b0\u60c5\u5831\u3092\u304a\u5c4a\u3051\u3059\u308b\u30ec\u30dd\u30fc\u30bf\u30fc\u3067\u3059\u3002 \u30b9\u30bf\u30b8\u30aa\u306b\u3044\u308b\u30d1\u30fc\u30bd\u30ca\u30ea\u30c6\u30a3\u30fc\u3001\u305d\u3057\u3066\u30e9\u30b8\u30aa\u306e\u524d\u306e\u30ea\u30b9\u30ca\u30fc\u306e\u307f\u306a\u3055\u3093\u306e\u76ee\u3068\u306a\u308a\u3001\u9f3b\u3068\u306a\u308a\u3001\u820c\u3068\u306a\u3063\u3066\u3001\u65ec\u306e\u8a71\u984c\u3092\u304a\u4f1d\u3048\u3057\u307e\u3059\u3002",
+            "favourites_count": 3150,
+            "follow_request_sent": null,
+            "followers_count": 2946,
+            "following": null,
+            "friends_count": 24,
+            "geo_enabled": true,
+            "id": 150129899,
+            "id_str": "150129899",
+            "is_translator": false,
+            "lang": "ja",
+            "listed_count": 117,
+            "location": "\u9577\u5d0e\u770c\u9577\u5d0e\u5e02",
+            "name": "NBC\u30e9\u30b8\u30aaSKIPPY",
+            "notifications": null,
+            "profile_background_color": "F589DE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/107302129/____.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/107302129/____.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/150129899/1494921993",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/862594916781760514/FkslofHb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/862594916781760514/FkslofHb_normal.jpg",
+            "profile_link_color": "0099CC",
+            "profile_sidebar_border_color": "F29EEE",
+            "profile_sidebar_fill_color": "EDA8E8",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nbc_skippy",
+            "statuses_count": 17492,
+            "time_zone": "Hawaii",
+            "url": "http://www.nbc-nagasaki.co.jp/",
+            "utc_offset": -36000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 890723794905571328,
+    "quoted_status_id_str": "890723794905571328",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\ude03\u5927\u6751\u6e7e\u304c\u30b9\u30e2\u30c3\u30b0\u304c\u304b\u304b\u3063\u3066\u307e\u3059\u304b\u2049\ufe0f\u6691\u3044\u3067\u3059\u306d\ud83d\ude35\u6c17\u3092\u4ed8\u3051\u3066\u884c\u3063\u3066\u3089\u3057\u3083\u3044\u203c\ufe0f https://t.co/xtvjv6VNzx",
+    "timestamp_ms": "1501200743208",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 30 07:15:13 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 3473,
+        "follow_request_sent": null,
+        "followers_count": 55,
+        "following": null,
+        "friends_count": 144,
+        "geo_enabled": true,
+        "id": 2793769809,
+        "id_str": "2793769809",
+        "is_translator": false,
+        "lang": "ja",
+        "listed_count": 0,
+        "location": "\u9577\u5d0e\u770c\u9577\u5d0e\u5e02\u5927\u9ce5\u753a23-2",
+        "name": "shurou  uesaki",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2793769809/1497918992",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876962287076036608/WeSgQk58_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876962287076036608/WeSgQk58_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShurouU",
+        "statuses_count": 1589,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 28 00:12:23 +0000 2017",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/8\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/890726595689951233",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/9lJpiUvSa7"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            132
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/OccupyDemocrat\u2026",
+                    "expanded_url": "https://twitter.com/OccupyDemocrats/status/890725542680567808",
+                    "indices": [
+                        133,
+                        156
+                    ],
+                    "url": "https://t.co/DK1GWVhEoy"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 878284831,
+                    "id_str": "878284831",
+                    "indices": [
+                        116,
+                        132
+                    ],
+                    "name": "Occupy Democrats",
+                    "screen_name": "OccupyDemocrats"
+                }
+            ]
+        },
+        "full_text": "\"Sometimes it seems that the louder someone claims sainthood, the bigger the horns they are hiding.\" Steve Maraboli @OccupyDemocrats https://t.co/DK1GWVhEoy"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890726595689951233,
+    "id_str": "890726595689951233",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jul 28 00:08:12 +0000 2017",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "text": "BREAKING"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "ift.tt/2eSpzUE",
+                    "expanded_url": "http://ift.tt/2eSpzUE",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "url": "https://t.co/IrpIZE3EOw"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890725542680567808,
+        "id_str": "890725542680567808",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "#BREAKING: A Former Putin Ally Just Testified That Putin Orchestrated Trump Jr. Secret Meeting https://t.co/IrpIZE3EOw",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Oct 13 17:12:40 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Grassroots political organization and information website dedicated to the goals of the Occupy movement and progressive Democrats. https://t.co/B5sJVNesgZ",
+            "favourites_count": 6197,
+            "follow_request_sent": null,
+            "followers_count": 35155,
+            "following": null,
+            "friends_count": 14,
+            "geo_enabled": false,
+            "id": 878284831,
+            "id_str": "878284831",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 660,
+            "location": "United States",
+            "name": "Occupy Democrats",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/509980848846688256/O1NxcmXZ.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/509980848846688256/O1NxcmXZ.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/878284831/1486412431",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798546872348577793/XZXel8_T_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/798546872348577793/XZXel8_T_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "OccupyDemocrats",
+            "statuses_count": 19728,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://www.OccupyDemocrats.com",
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 890725542680567808,
+    "quoted_status_id_str": "890725542680567808",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "\"Sometimes it seems that the louder someone claims sainthood, the bigger the horns they are hiding.\" Steve Maraboli\u2026 https://t.co/9lJpiUvSa7",
+    "timestamp_ms": "1501200743969",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 16 12:27:00 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 7002,
+        "follow_request_sent": null,
+        "followers_count": 469,
+        "following": null,
+        "friends_count": 1243,
+        "geo_enabled": false,
+        "id": 820970607944863745,
+        "id_str": "820970607944863745",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "United States",
+        "name": "I. Hope",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820970607944863745/1493728245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/859384433954050049/sclMO6YZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/859384433954050049/sclMO6YZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Humanity936",
+        "statuses_count": 18681,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

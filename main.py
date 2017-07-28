@@ -26,7 +26,7 @@ class MyListener(StreamListener):
     def on_data(self, tweet):
         
         try:
-            with open('links.json', 'a') as f:
+            with open('tweets.json', 'a') as f:
                 
                 # make it a dictionary
                 tweetdict = json.loads(tweet)
