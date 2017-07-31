@@ -668,4 +668,2212 @@
         "utc_offset": -25200,
         "verified": false
     }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 28 00:17:51 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9g5hnCu2Hi",
+                "expanded_url": "https://twitter.com/dandrezner/status/890721426235326464/photo/1",
+                "id": 890721421365850113,
+                "id_str": "890721421365850113",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/media/DFx6adpXsAEJGto.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DFx6adpXsAEJGto.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 254,
+                        "resize": "fit",
+                        "w": 1180
+                    },
+                    "medium": {
+                        "h": 254,
+                        "resize": "fit",
+                        "w": 1180
+                    },
+                    "small": {
+                        "h": 146,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 890721426235326464,
+                "source_status_id_str": "890721426235326464",
+                "source_user_id": 75797367,
+                "source_user_id_str": "75797367",
+                "type": "photo",
+                "url": "https://t.co/9g5hnCu2Hi"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "washingtonpost.com/politics/a-tri\u2026",
+                "expanded_url": "https://www.washingtonpost.com/politics/a-trifecta-of-criticism-for-president-trump-with-this-message-change-your-behavior/2017/07/27/6f73e11a-7310-11e7-8f39-eeb7d3a2d304_story.html",
+                "indices": [
+                    28,
+                    51
+                ],
+                "url": "https://t.co/FQgUpC1Ulj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 75797367,
+                "id_str": "75797367",
+                "indices": [
+                    3,
+                    14
+                ],
+                "name": "Daniel W. Drezner",
+                "screen_name": "dandrezner"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9g5hnCu2Hi",
+                "expanded_url": "https://twitter.com/dandrezner/status/890721426235326464/photo/1",
+                "id": 890721421365850113,
+                "id_str": "890721421365850113",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/media/DFx6adpXsAEJGto.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DFx6adpXsAEJGto.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 254,
+                        "resize": "fit",
+                        "w": 1180
+                    },
+                    "medium": {
+                        "h": 254,
+                        "resize": "fit",
+                        "w": 1180
+                    },
+                    "small": {
+                        "h": 146,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 890721426235326464,
+                "source_status_id_str": "890721426235326464",
+                "source_user_id": 75797367,
+                "source_user_id_str": "75797367",
+                "type": "photo",
+                "url": "https://t.co/9g5hnCu2Hi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890727970603663360,
+    "id_str": "890727970603663360",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 23:51:51 +0000 2017",
+        "display_text_range": [
+            0,
+            35
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/9g5hnCu2Hi",
+                    "expanded_url": "https://twitter.com/dandrezner/status/890721426235326464/photo/1",
+                    "id": 890721421365850113,
+                    "id_str": "890721421365850113",
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFx6adpXsAEJGto.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFx6adpXsAEJGto.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 254,
+                            "resize": "fit",
+                            "w": 1180
+                        },
+                        "medium": {
+                            "h": 254,
+                            "resize": "fit",
+                            "w": 1180
+                        },
+                        "small": {
+                            "h": 146,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/9g5hnCu2Hi"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "washingtonpost.com/politics/a-tri\u2026",
+                    "expanded_url": "https://www.washingtonpost.com/politics/a-trifecta-of-criticism-for-president-trump-with-this-message-change-your-behavior/2017/07/27/6f73e11a-7310-11e7-8f39-eeb7d3a2d304_story.html",
+                    "indices": [
+                        12,
+                        35
+                    ],
+                    "url": "https://t.co/FQgUpC1Ulj"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/9g5hnCu2Hi",
+                    "expanded_url": "https://twitter.com/dandrezner/status/890721426235326464/photo/1",
+                    "id": 890721421365850113,
+                    "id_str": "890721421365850113",
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFx6adpXsAEJGto.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFx6adpXsAEJGto.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 254,
+                            "resize": "fit",
+                            "w": 1180
+                        },
+                        "medium": {
+                            "h": 254,
+                            "resize": "fit",
+                            "w": 1180
+                        },
+                        "small": {
+                            "h": 146,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/9g5hnCu2Hi"
+                }
+            ]
+        },
+        "favorite_count": 221,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890721426235326464,
+        "id_str": "890721426235326464",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 133,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "Solid lede. https://t.co/FQgUpC1Ulj https://t.co/9g5hnCu2Hi",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Sep 20 14:34:27 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Professor at @FletcherSchool. Writer of Spoiler Alerts for @washingtonpost. Author of The Ideas Industry. Shaker of hands with Mel Brooks.",
+            "favourites_count": 12839,
+            "follow_request_sent": null,
+            "followers_count": 88620,
+            "following": null,
+            "friends_count": 983,
+            "geo_enabled": false,
+            "id": 75797367,
+            "id_str": "75797367",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2864,
+            "location": "Really, where am I not?",
+            "name": "Daniel W. Drezner",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457366595359084544/q51Jgzh0.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457366595359084544/q51Jgzh0.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/75797367/1490618699",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/868212405192409088/aEr9vstR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/868212405192409088/aEr9vstR_normal.jpg",
+            "profile_link_color": "0018B3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "dandrezner",
+            "statuses_count": 127459,
+            "time_zone": "Quito",
+            "url": "http://danieldrezner.com",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @dandrezner: Solid lede. https://t.co/FQgUpC1Ulj https://t.co/9g5hnCu2Hi",
+    "timestamp_ms": "1501201071774",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 19 16:20:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Views are my own, retweets not necessarily endorsements.",
+        "favourites_count": 10156,
+        "follow_request_sent": null,
+        "followers_count": 105,
+        "following": null,
+        "friends_count": 495,
+        "geo_enabled": true,
+        "id": 83633500,
+        "id_str": "83633500",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "New York ",
+        "name": "Andy Schneider",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/165346330/sunset.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/165346330/sunset.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83633500/1482204705",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/811050718257938433/pLxpfpMQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/811050718257938433/pLxpfpMQ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "andocracy",
+        "statuses_count": 18540,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 28 00:17:52 +0000 2017",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/8\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/890727973355216896",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/eExau2Jl4A"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 9624742,
+                "id_str": "9624742",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Department of State",
+                "screen_name": "StateDept"
+            },
+            {
+                "id": 10615232,
+                "id_str": "10615232",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "ChuckGrassley",
+                "screen_name": "ChuckGrassley"
+            },
+            {
+                "id": 17494010,
+                "id_str": "17494010",
+                "indices": [
+                    26,
+                    37
+                ],
+                "name": "Chuck Schumer",
+                "screen_name": "SenSchumer"
+            },
+            {
+                "id": 17629860,
+                "id_str": "17629860",
+                "indices": [
+                    38,
+                    42
+                ],
+                "name": "FBI",
+                "screen_name": "FBI"
+            },
+            {
+                "id": 73181712,
+                "id_str": "73181712",
+                "indices": [
+                    43,
+                    58
+                ],
+                "name": "Justice Department",
+                "screen_name": "TheJusticeDept"
+            }
+        ]
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            131
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/09BRAININJURY/\u2026",
+                    "expanded_url": "https://twitter.com/09BRAININJURY/status/890675529103417345",
+                    "indices": [
+                        132,
+                        155
+                    ],
+                    "url": "https://t.co/aN1Yax4vIc"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 9624742,
+                    "id_str": "9624742",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "name": "Department of State",
+                    "screen_name": "StateDept"
+                },
+                {
+                    "id": 10615232,
+                    "id_str": "10615232",
+                    "indices": [
+                        11,
+                        25
+                    ],
+                    "name": "ChuckGrassley",
+                    "screen_name": "ChuckGrassley"
+                },
+                {
+                    "id": 17494010,
+                    "id_str": "17494010",
+                    "indices": [
+                        26,
+                        37
+                    ],
+                    "name": "Chuck Schumer",
+                    "screen_name": "SenSchumer"
+                },
+                {
+                    "id": 17629860,
+                    "id_str": "17629860",
+                    "indices": [
+                        38,
+                        42
+                    ],
+                    "name": "FBI",
+                    "screen_name": "FBI"
+                },
+                {
+                    "id": 73181712,
+                    "id_str": "73181712",
+                    "indices": [
+                        43,
+                        58
+                    ],
+                    "name": "Justice Department",
+                    "screen_name": "TheJusticeDept"
+                }
+            ]
+        },
+        "full_text": "@StateDept @ChuckGrassley @SenSchumer @FBI @TheJusticeDept Hello Guys Wake up. Is anyone investigating anything beside Fake Russia? https://t.co/aN1Yax4vIc"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 890727973355216896,
+    "id_str": "890727973355216896",
+    "in_reply_to_screen_name": "StateDept",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 9624742,
+    "in_reply_to_user_id_str": "9624742",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jul 27 20:49:28 +0000 2017",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "teaparty.org/breaking-anti-\u2026",
+                    "expanded_url": "https://www.teaparty.org/breaking-anti-trump-democrat-busted-hands-cookie-jar-254757/",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "url": "https://t.co/KBIxrq6KPr"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 35,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 890675529103417345,
+        "id_str": "890675529103417345",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 48,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "BREAKING: Anti-Trump Democrat BUSTED With His Hands In The Cookie Jar \u2013  https://t.co/KBIxrq6KPr",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jan 13 21:24:11 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "failure not option 2009 suffered brain injury and ptsd #RAVENSNATION MY WIFE HAS BREAST CANCER AND IM 100% WITH HER SHE IS MY HERO AND CHAMPION",
+            "favourites_count": 1429,
+            "follow_request_sent": null,
+            "followers_count": 4754,
+            "following": null,
+            "friends_count": 5214,
+            "geo_enabled": true,
+            "id": 463217851,
+            "id_str": "463217851",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 51,
+            "location": null,
+            "name": "MIKEM",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/463217851/1473684791",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/869571188317712384/-EnplPdc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/869571188317712384/-EnplPdc_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "09BRAININJURY",
+            "statuses_count": 50438,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 890675529103417345,
+    "quoted_status_id_str": "890675529103417345",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@StateDept @ChuckGrassley @SenSchumer @FBI @TheJusticeDept Hello Guys Wake up. Is anyone investigating anything bes\u2026 https://t.co/eExau2Jl4A",
+    "timestamp_ms": "1501201072430",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 12 09:28:33 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#MAGA\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 #POTUS Proud American sick of the DEMNUTS! GO POTUS 2020\ud83d\ude07\ud83e\udd23GO Military I follow all TRUMPSTERS #Trump2020 Only on twitter to support POTUS!",
+        "favourites_count": 3107,
+        "follow_request_sent": null,
+        "followers_count": 1739,
+        "following": null,
+        "friends_count": 2885,
+        "geo_enabled": false,
+        "id": 4170204321,
+        "id_str": "4170204321",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": null,
+        "name": "Trumpette",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4170204321/1500601610",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888191479419723776/7b97YM5x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888191479419723776/7b97YM5x_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "cashbrittany23",
+        "statuses_count": 2875,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 31 19:26:26 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "greensboro.com/washingtonpost\u2026",
+                "expanded_url": "http://www.greensboro.com/washingtonpost/uncategorized/analysis-house-gop-has-spent-hours-on-votes-to-undercut/article_d495d38b-9ba4-53cb-bdc7-f5a6a954c0a0.html",
+                "indices": [
+                    104,
+                    127
+                ],
+                "url": "https://t.co/RGvEpBZKDE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 4854332050,
+                "id_str": "4854332050",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "Stop the Speaker",
+                "screen_name": "StopTheSpeaker"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 892104185021378561,
+    "id_str": "892104185021378561",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Jul 31 19:23:26 +0000 2017",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "greensboro.com/washingtonpost\u2026",
+                    "expanded_url": "http://www.greensboro.com/washingtonpost/uncategorized/analysis-house-gop-has-spent-hours-on-votes-to-undercut/article_d495d38b-9ba4-53cb-bdc7-f5a6a954c0a0.html",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "url": "https://t.co/RGvEpBZKDE"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 13,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 892103427689517056,
+        "id_str": "892103427689517056",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 13,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Imagine if Paul Ryan had just spent a couple of those hours making Obamacare better?https://t.co/RGvEpBZKDE",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jan 27 17:44:21 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Exposing Paul Ryan as the zombie-eyed granny-starver from WI who wants to enact his dream since college of demolishing the safety net.",
+            "favourites_count": 451,
+            "follow_request_sent": null,
+            "followers_count": 27171,
+            "following": null,
+            "friends_count": 21081,
+            "geo_enabled": false,
+            "id": 4854332050,
+            "id_str": "4854332050",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 123,
+            "location": "Janesville, WI",
+            "name": "Stop the Speaker",
+            "notifications": null,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4854332050/1493991943",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/780868434733199360/0Cohc5hi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/780868434733199360/0Cohc5hi_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "StopTheSpeaker",
+            "statuses_count": 2170,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://www.stopthespeaker.com",
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @StopTheSpeaker: Imagine if Paul Ryan had just spent a couple of those hours making Obamacare better?https://t.co/RGvEpBZKDE",
+    "timestamp_ms": "1501529186860",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 14 10:22:32 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Army Vet ~ Past Union President ~ Adore my family ~ Love #art #music #softball #JenniferBeals ~ Liberal ~ #ForeverLSU ~ I miss u, T \ud83d\udc9c\ud83c\udf08\ud83e\udd84",
+        "favourites_count": 27506,
+        "follow_request_sent": null,
+        "followers_count": 1158,
+        "following": null,
+        "friends_count": 992,
+        "geo_enabled": true,
+        "id": 1351541984,
+        "id_str": "1351541984",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 50,
+        "location": "Arkansas, USA",
+        "name": "Marty Nix",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351541984/1373250891",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850489537071546369/Na6WDwuL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850489537071546369/Na6WDwuL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Marty_Nix",
+        "statuses_count": 21004,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 31 19:26:27 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/docrocktex26/s\u2026",
+                "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040",
+                "indices": [
+                    56,
+                    79
+                ],
+                "url": "https://t.co/J2kA5rT4BI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 21080035,
+                "id_str": "21080035",
+                "indices": [
+                    3,
+                    14
+                ],
+                "name": "Lisa Carr",
+                "screen_name": "LisaLACarr"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 892104187797962753,
+    "id_str": "892104187797962753",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Sep 03 19:37:45 +0000 2016",
+        "display_text_range": [
+            0,
+            113
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/XTZ239pSRA",
+                    "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040/photo/1",
+                    "id": 772156639075901440,
+                    "id_str": "772156639075901440",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CrdAX0cUIAAAKGi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CrdAX0cUIAAAKGi.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 858,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 858,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 594
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/XTZ239pSRA"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "washingtonpost.com/politics/court\u2026",
+                    "expanded_url": "https://www.washingtonpost.com/politics/courts_law/inside-the-republican-creation-of-the-north-carolina-voting-bill-dubbed-the-monster-law/2016/09/01/79162398-6adf-11e6-8225-fbb8a6fc65bc_story.html?wpisrc=nl_wemost&wpmm=1",
+                    "indices": [
+                        90,
+                        113
+                    ],
+                    "url": "https://t.co/bosHb2dKTl"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/XTZ239pSRA",
+                    "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040/photo/1",
+                    "id": 772156639075901440,
+                    "id_str": "772156639075901440",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CrdAX0cUIAAAKGi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CrdAX0cUIAAAKGi.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 858,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 858,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 594
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/XTZ239pSRA"
+                },
+                {
+                    "display_url": "pic.twitter.com/XTZ239pSRA",
+                    "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040/photo/1",
+                    "id": 772156639080124417,
+                    "id_str": "772156639080124417",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CrdAX0dUkAEGdrO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CrdAX0dUkAEGdrO.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 432,
+                            "resize": "fit",
+                            "w": 745
+                        },
+                        "medium": {
+                            "h": 432,
+                            "resize": "fit",
+                            "w": 745
+                        },
+                        "small": {
+                            "h": 394,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/XTZ239pSRA"
+                },
+                {
+                    "display_url": "pic.twitter.com/XTZ239pSRA",
+                    "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040/photo/1",
+                    "id": 772156639075897344,
+                    "id_str": "772156639075897344",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CrdAX0cUEAAcx6j.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CrdAX0cUEAAcx6j.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 968,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 968,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 527
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/XTZ239pSRA"
+                }
+            ]
+        },
+        "favorite_count": 126,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 772156645929431040,
+        "id_str": "772156645929431040",
+        "in_reply_to_screen_name": "docrocktex26",
+        "in_reply_to_status_id": 772083578276450306,
+        "in_reply_to_status_id_str": "772083578276450306",
+        "in_reply_to_user_id": 16582131,
+        "in_reply_to_user_id_str": "16582131",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 114,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Inside the Republican creation of the North Carolina voting bill dubbed the \u2018monster\u2019 law https://t.co/bosHb2dKTl https://t.co/XTZ239pSRA",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Oct 03 19:08:21 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Wife. Mother. Daughter. Sister. Friend. Doctor. Christian. Longhorn. Liberal. Democrat. Activist. Scorpio. Recycler. Politics Junkie. Proverbial Firestarter.",
+            "favourites_count": 166462,
+            "follow_request_sent": null,
+            "followers_count": 78138,
+            "following": null,
+            "friends_count": 4526,
+            "geo_enabled": true,
+            "id": 16582131,
+            "id_str": "16582131",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1419,
+            "location": "Houston, TX",
+            "name": "Propane Jane\u2122",
+            "notifications": null,
+            "profile_background_color": "BADFCD",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/805204022/d44daf2d435747551be0b288a24b6a73.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/805204022/d44daf2d435747551be0b288a24b6a73.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16582131/1477507916",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/792431540143697922/VrNOi_FD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/792431540143697922/VrNOi_FD_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "docrocktex26",
+            "statuses_count": 325347,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "https://storify.com/docrocktex26",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 772156645929431040,
+    "quoted_status_id_str": "772156645929431040",
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Jul 31 16:41:37 +0000 2017",
+        "display_text_range": [
+            0,
+            39
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/docrocktex26/s\u2026",
+                    "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "url": "https://t.co/J2kA5rT4BI"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 11,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 892062707641446400,
+        "id_str": "892062707641446400",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Sep 03 19:37:45 +0000 2016",
+            "display_text_range": [
+                0,
+                113
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/XTZ239pSRA",
+                        "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040/photo/1",
+                        "id": 772156639075901440,
+                        "id_str": "772156639075901440",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrdAX0cUIAAAKGi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrdAX0cUIAAAKGi.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 858,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 858,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 594
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/XTZ239pSRA"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "washingtonpost.com/politics/court\u2026",
+                        "expanded_url": "https://www.washingtonpost.com/politics/courts_law/inside-the-republican-creation-of-the-north-carolina-voting-bill-dubbed-the-monster-law/2016/09/01/79162398-6adf-11e6-8225-fbb8a6fc65bc_story.html?wpisrc=nl_wemost&wpmm=1",
+                        "indices": [
+                            90,
+                            113
+                        ],
+                        "url": "https://t.co/bosHb2dKTl"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/XTZ239pSRA",
+                        "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040/photo/1",
+                        "id": 772156639075901440,
+                        "id_str": "772156639075901440",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrdAX0cUIAAAKGi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrdAX0cUIAAAKGi.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 858,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 858,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 594
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/XTZ239pSRA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/XTZ239pSRA",
+                        "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040/photo/1",
+                        "id": 772156639080124417,
+                        "id_str": "772156639080124417",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrdAX0dUkAEGdrO.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrdAX0dUkAEGdrO.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 432,
+                                "resize": "fit",
+                                "w": 745
+                            },
+                            "medium": {
+                                "h": 432,
+                                "resize": "fit",
+                                "w": 745
+                            },
+                            "small": {
+                                "h": 394,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/XTZ239pSRA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/XTZ239pSRA",
+                        "expanded_url": "https://twitter.com/docrocktex26/status/772156645929431040/photo/1",
+                        "id": 772156639075897344,
+                        "id_str": "772156639075897344",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrdAX0cUEAAcx6j.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrdAX0cUEAAcx6j.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 968,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 968,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 527
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/XTZ239pSRA"
+                    }
+                ]
+            },
+            "favorite_count": 126,
+            "favorited": false,
+            "filter_level": "low",
+            "geo": null,
+            "id": 772156645929431040,
+            "id_str": "772156645929431040",
+            "in_reply_to_screen_name": "docrocktex26",
+            "in_reply_to_status_id": 772083578276450306,
+            "in_reply_to_status_id_str": "772083578276450306",
+            "in_reply_to_user_id": 16582131,
+            "in_reply_to_user_id_str": "16582131",
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 114,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Inside the Republican creation of the North Carolina voting bill dubbed the \u2018monster\u2019 law https://t.co/bosHb2dKTl https://t.co/XTZ239pSRA",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Oct 03 19:08:21 +0000 2008",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Wife. Mother. Daughter. Sister. Friend. Doctor. Christian. Longhorn. Liberal. Democrat. Activist. Scorpio. Recycler. Politics Junkie. Proverbial Firestarter.",
+                "favourites_count": 166462,
+                "follow_request_sent": null,
+                "followers_count": 78138,
+                "following": null,
+                "friends_count": 4526,
+                "geo_enabled": true,
+                "id": 16582131,
+                "id_str": "16582131",
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1419,
+                "location": "Houston, TX",
+                "name": "Propane Jane\u2122",
+                "notifications": null,
+                "profile_background_color": "BADFCD",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/805204022/d44daf2d435747551be0b288a24b6a73.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/805204022/d44daf2d435747551be0b288a24b6a73.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16582131/1477507916",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/792431540143697922/VrNOi_FD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/792431540143697922/VrNOi_FD_normal.jpg",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFF7CC",
+                "profile_text_color": "0C3E53",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "docrocktex26",
+                "statuses_count": 325347,
+                "time_zone": "Central Time (US & Canada)",
+                "url": "https://storify.com/docrocktex26",
+                "utc_offset": -18000,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 772156645929431040,
+        "quoted_status_id_str": "772156645929431040",
+        "retweet_count": 14,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Targeted with surgical precision... wow https://t.co/J2kA5rT4BI",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 17 10:55:28 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I'm an animal lover. A volunteer.  A sarcastic soul sometimes...ok a lot. Love spending time in my alternate reality.   Ready to resist wrongs. European.",
+            "favourites_count": 1432,
+            "follow_request_sent": null,
+            "followers_count": 443,
+            "following": null,
+            "friends_count": 1015,
+            "geo_enabled": false,
+            "id": 21080035,
+            "id_str": "21080035",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 35,
+            "location": "Ireland, Europe ",
+            "name": "Lisa Carr",
+            "notifications": null,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21080035/1492640194",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/854822017178243077/pHCcpeSZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/854822017178243077/pHCcpeSZ_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "LisaLACarr",
+            "statuses_count": 6163,
+            "time_zone": "Dublin",
+            "url": null,
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LisaLACarr: Targeted with surgical precision... wow https://t.co/J2kA5rT4BI",
+    "timestamp_ms": "1501529187522",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 19:45:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Freelance writer, experienced traveler, and Penguins fan. #ResistTrump",
+        "favourites_count": 5690,
+        "follow_request_sent": null,
+        "followers_count": 239,
+        "following": null,
+        "friends_count": 955,
+        "geo_enabled": false,
+        "id": 31206433,
+        "id_str": "31206433",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Madison, WI",
+        "name": "Mike Knerr",
+        "notifications": null,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31206433/1348345687",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/810684831810064385/teGM8FVz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/810684831810064385/teGM8FVz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mikeknerr67",
+        "statuses_count": 9800,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "http://www.linkedin.com/in/mikeknerr",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 31 19:26:27 +0000 2017",
+    "display_text_range": [
+        25,
+        78
+    ],
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qylC2Y4st9",
+                "expanded_url": "https://twitter.com/DoctorBuzzard/status/892104186585853952/photo/1",
+                "id": 892104180063625216,
+                "id_str": "892104180063625216",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/DGFkBnNVYAAETqV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DGFkBnNVYAAETqV.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 682,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 682,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qylC2Y4st9"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "doctorbuzzard.info/press5/the-ret\u2026",
+                "expanded_url": "http://doctorbuzzard.info/press5/the-return-to-mankinds-greatest-adventure/",
+                "indices": [
+                    55,
+                    78
+                ],
+                "url": "https://t.co/oY8UWloiup"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Washington Post",
+                "screen_name": "washingtonpost"
+            },
+            {
+                "id": 107216890,
+                "id_str": "107216890",
+                "indices": [
+                    16,
+                    24
+                ],
+                "name": "Resistaca",
+                "screen_name": "Monaca6"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qylC2Y4st9",
+                "expanded_url": "https://twitter.com/DoctorBuzzard/status/892104186585853952/photo/1",
+                "id": 892104180063625216,
+                "id_str": "892104180063625216",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/DGFkBnNVYAAETqV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DGFkBnNVYAAETqV.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 682,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 682,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qylC2Y4st9"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 892104186585853952,
+    "id_str": "892104186585853952",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 892017268628041732,
+    "in_reply_to_status_id_str": "892017268628041732",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@washingtonpost @Monaca6 Actually it was a great week! https://t.co/oY8UWloiup https://t.co/qylC2Y4st9",
+    "timestamp_ms": "1501529187233",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 07 17:08:20 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor chief resident witch-doctor PNN Psychic News Network and Doctor Buzzard Tasteless Tonic and Medicine Show! Not on FB.",
+        "favourites_count": 7427,
+        "follow_request_sent": null,
+        "followers_count": 1710,
+        "following": null,
+        "friends_count": 2580,
+        "geo_enabled": false,
+        "id": 17943663,
+        "id_str": "17943663",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "Spartanburg, SC",
+        "name": "DoctorBuzzard",
+        "notifications": null,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/8112741/seeall35f93edwl4.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/8112741/seeall35f93edwl4.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17943663/1465574242",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/740894600307593216/miQVRqWl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/740894600307593216/miQVRqWl_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DoctorBuzzard",
+        "statuses_count": 8365,
+        "time_zone": "Quito",
+        "url": "https://psychicnews.wordpress.com/",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 31 19:26:28 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "abcnews.go.com/Politics/antho\u2026",
+                "expanded_url": "http://abcnews.go.com/Politics/anthony-scaramucci-white-house-communications-director/story?id=48952277",
+                "indices": [
+                    93,
+                    116
+                ],
+                "url": "https://t.co/tQITM5dQK7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2950306658,
+                "id_str": "2950306658",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "Impeachment 4 tRUMPO",
+                "screen_name": "chavezglen1755"
+            },
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    122,
+                    126
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 892104190813626369,
+    "id_str": "892104190813626369",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Jul 31 19:19:56 +0000 2017",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "abcnews.go.com/Politics/antho\u2026",
+                    "expanded_url": "http://abcnews.go.com/Politics/anthony-scaramucci-white-house-communications-director/story?id=48952277",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "url": "https://t.co/tQITM5dQK7"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 28785486,
+                    "id_str": "28785486",
+                    "indices": [
+                        102,
+                        106
+                    ],
+                    "name": "ABC News",
+                    "screen_name": "ABC"
+                }
+            ]
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 892102546461831168,
+        "id_str": "892102546461831168",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Anthony Scaramucci out as White House communications director - ABC News https://t.co/tQITM5dQK7 (via @ABC)",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Dec 29 13:57:25 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Medically Disabled RN, Acupuncturist;  Start to LOVE and Stop the Hate\n\nNO LISTS I BLOCK #RESISTANCE #DEMFORCE\n#MuscularDystrophySucks\n#NotOk #EverybodyMatters",
+            "favourites_count": 69739,
+            "follow_request_sent": null,
+            "followers_count": 4538,
+            "following": null,
+            "friends_count": 5001,
+            "geo_enabled": true,
+            "id": 2950306658,
+            "id_str": "2950306658",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 32,
+            "location": "Dischanted States of America ",
+            "name": "Impeachment 4 tRUMPO",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2950306658/1497285042",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/891513599440572416/8eVZtoh7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/891513599440572416/8eVZtoh7_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "chavezglen1755",
+            "statuses_count": 89262,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @chavezglen1755: Anthony Scaramucci out as White House communications director - ABC News https://t.co/tQITM5dQK7 (via @ABC)",
+    "timestamp_ms": "1501529188241",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 12 05:09:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Strong Wild & Free. Fighter4Justice&Beauty. http://CrossCulturalStudies.Vet.Artist Disco, 80s, Jazz & Kpop Music INFJ",
+        "favourites_count": 32323,
+        "follow_request_sent": null,
+        "followers_count": 4010,
+        "following": null,
+        "friends_count": 4728,
+        "geo_enabled": true,
+        "id": 410489408,
+        "id_str": "410489408",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 176,
+        "location": "California, USA",
+        "name": "Air Sign",
+        "notifications": null,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/410489408/1500666503",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/878445417850994692/lp0Te91__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/878445417850994692/lp0Te91__normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BlkLightDisco",
+        "statuses_count": 133948,
+        "time_zone": "America/Los_Angeles",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 31 19:26:28 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "washingtonpost.com/opinions/julia\u2026",
+                "expanded_url": "https://www.washingtonpost.com/opinions/julian-assange-the-cia-director-is-waging-war-on-truth-tellers-like-wikileaks/2017/04/25/b8aa5cfc-29c7-11e7-a616-d7c8a68c1a66_story.html?utm_term=.1257b39d950d",
+                "indices": [
+                    89,
+                    112
+                ],
+                "url": "https://t.co/elc8sQNoxK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16589206,
+                "id_str": "16589206",
+                "indices": [
+                    3,
+                    13
+                ],
+                "name": "WikiLeaks",
+                "screen_name": "wikileaks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 892104191132540930,
+    "id_str": "892104191132540930",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Jun 24 20:06:15 +0000 2017",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "washingtonpost.com/opinions/julia\u2026",
+                    "expanded_url": "https://www.washingtonpost.com/opinions/julian-assange-the-cia-director-is-waging-war-on-truth-tellers-like-wikileaks/2017/04/25/b8aa5cfc-29c7-11e7-a616-d7c8a68c1a66_story.html?utm_term=.1257b39d950d",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "url": "https://t.co/elc8sQNoxK"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1219,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 878705852819046400,
+        "id_str": "878705852819046400",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1105,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Julian Assange: CIA director Mike Pompeo is waging a war on truth-tellers https://t.co/elc8sQNoxK",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Oct 04 06:41:05 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "We open governments. Contact: https://wikileaks.org/#submit  PGP: A04C 5E09 ED02 B328 03EB 6116 93ED 732E \n\n@WLArtForce @WLTaskForce @WikiLeaksShop",
+            "favourites_count": 42,
+            "follow_request_sent": null,
+            "followers_count": 4906133,
+            "following": null,
+            "friends_count": 7555,
+            "geo_enabled": false,
+            "id": 16589206,
+            "id_str": "16589206",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 56313,
+            "location": "Everywhere",
+            "name": "WikiLeaks",
+            "notifications": null,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3147857/WL_Hour_Glass.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3147857/WL_Hour_Glass.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16589206/1402313050",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "wikileaks",
+            "statuses_count": 47476,
+            "time_zone": "Dublin",
+            "url": "https://wikileaks.org",
+            "utc_offset": 3600,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @wikileaks: Julian Assange: CIA director Mike Pompeo is waging a war on truth-tellers https://t.co/elc8sQNoxK",
+    "timestamp_ms": "1501529188317",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 01 09:24:35 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired. Love animals and preserving nature. Democratic Socialist. #DrJillStein & #GreenPartyUS supporter. #NeverHillaryOrTrump Tweets are my personal opinions.",
+        "favourites_count": 179586,
+        "follow_request_sent": null,
+        "followers_count": 8145,
+        "following": null,
+        "friends_count": 6866,
+        "geo_enabled": false,
+        "id": 542400979,
+        "id_str": "542400979",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 465,
+        "location": "Richmond, Virginia",
+        "name": "OldCrow\ud83d\udd39",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/542400979/1480576203",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/753541340835614720/hNbUpDjt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/753541340835614720/hNbUpDjt_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cook_robert_l",
+        "statuses_count": 320616,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 31 19:26:28 +0000 2017",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    19,
+                    35
+                ],
+                "text": "DeepStateMcCain"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bb4sp.com/john-mccain-re\u2026",
+                "expanded_url": "http://bb4sp.com/john-mccain-releases-statement/",
+                "indices": [
+                    105,
+                    128
+                ],
+                "url": "https://t.co/dZWvD9zJBo"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2500587222,
+                "id_str": "2500587222",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "AngryAmericansUnited",
+                "screen_name": "LastWave2014"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 892104192478912512,
+    "id_str": "892104192478912512",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Jul 29 17:14:52 +0000 2017",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        1,
+                        17
+                    ],
+                    "text": "DeepStateMcCain"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bb4sp.com/john-mccain-re\u2026",
+                    "expanded_url": "http://bb4sp.com/john-mccain-releases-statement/",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "url": "https://t.co/dZWvD9zJBo"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 73657657,
+                    "id_str": "73657657",
+                    "indices": [
+                        115,
+                        129
+                    ],
+                    "name": "Barracuda Brigade",
+                    "screen_name": "BarracudaMama"
+                }
+            ]
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 891346298523103232,
+        "id_str": "891346298523103232",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 13,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\u201c#DeepStateMcCain's  legacy as a backstabbing RINO has been forever etched in stone.\u201d\n https://t.co/dZWvD9zJBo via @BarracudaMama",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat May 17 04:33:05 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Democrats Have Become The Official #LunaticParty\nLiberal #MSM~80% Propaganda 20% #FakeNews\n#TermLimits4Congress #DrainTheSwamp \n#VoterID #TrumpWall #NoRefugees",
+            "favourites_count": 29005,
+            "follow_request_sent": null,
+            "followers_count": 5808,
+            "following": null,
+            "friends_count": 4244,
+            "geo_enabled": false,
+            "id": 2500587222,
+            "id_str": "2500587222",
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 140,
+            "location": "USA",
+            "name": "AngryAmericansUnited",
+            "notifications": null,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477551245335334912/QrInfwPc.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477551245335334912/QrInfwPc.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2500587222/1478728219",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796464951971889153/w4TOmZpE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/796464951971889153/w4TOmZpE_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "009999",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "LastWave2014",
+            "statuses_count": 103688,
+            "time_zone": null,
+            "url": "https://www.facebook.com/TheAngryAmericans",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @LastWave2014: \u201c#DeepStateMcCain's  legacy as a backstabbing RINO has been forever etched in stone.\u201d\n https://t.co/dZWvD9zJBo via @Barra\u2026",
+    "timestamp_ms": "1501529188638",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 17 22:45:56 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Conservitive, gunowning coal miner. old solider, who remembers his oath.",
+        "favourites_count": 546,
+        "follow_request_sent": null,
+        "followers_count": 369,
+        "following": null,
+        "friends_count": 697,
+        "geo_enabled": false,
+        "id": 337370333,
+        "id_str": "337370333",
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Southern Illinois",
+        "name": "Douglas  Walker",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1447602530/Dec02652_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1447602530/Dec02652_normal.JPG",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "crzydug",
+        "statuses_count": 4784,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
 }
