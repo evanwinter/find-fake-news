@@ -6,7 +6,8 @@ import json
 def get_urls():
     data = pandas.read_csv("domains.csv")
     urls = list(data['Site name'].values)
+    urlsStr = ' '.join(urls)
     with open('domains.txt', 'w') as outfile:
-        outfile.write(json.dumps(urls))
+        outfile.write(urlsStr)
 
 get_urls()
