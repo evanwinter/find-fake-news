@@ -83,7 +83,4 @@ except BaseException as e:
 
 
 twitter_stream = Stream(auth, MyListener())
-
-# right now this array is copy/pasted output of domains.py -- temporary solution until we better understand filter()
-# why are the periods removed from domains? => last paragraph under "track" https://dev.twitter.com/streaming/overview/request-parameters
 twitter_stream.filter(track=domains)
