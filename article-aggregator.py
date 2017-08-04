@@ -3,10 +3,11 @@ import config
 import json
 
 from py_ms_cognitive import PyMsCognitiveNewsSearch
+from time import sleep
 
 
 topic = input("Enter in the topic: ")
-print("\nGetting news articles about "+topic)
+print("\nGathering news articles about "+topic)
 
 #Search for articles using Bing's News Search API
 search_service = PyMsCognitiveNewsSearch(config.bing_search_api_key, topic)
@@ -19,6 +20,7 @@ try:
             for article in articles:
                 f.write(json.dumps(article.json, indent=4, sort_keys=True)+'\n')
                 print("Saving article with title: " + article.name)
+                sleep(0.2) # add a little delay for saucy complexity ;)
 
 except BaseException as e:
         print("Error on_data: %s\n" % str(e))
