@@ -1,3 +1,4 @@
 config.py
 tweets.json
 domains.txt
+*.json
