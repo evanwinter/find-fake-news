@@ -1,4 +1,4 @@
-# finding fake news 
+# Fake News Finder 
 
 
 ## Objective
