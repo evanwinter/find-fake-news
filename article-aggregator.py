@@ -1,10 +1,8 @@
-
 import config
 import json
 
 from py_ms_cognitive import PyMsCognitiveNewsSearch
 from time import sleep
-
 
 topic = input("Enter in the topic: ")
 print("\nGathering news articles about "+topic)
